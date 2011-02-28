@@ -1,0 +1,69 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-12 18:55+0200\n"
+"PO-Revision-Date: 2010-10-04 14:50-0000\n"
+"Last-Translator: hudo <hudokkow@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: PORTUGAL\n"
+
+msgid "Timer"
+msgstr "Temporizador"
+
+msgid "Video"
+msgstr "Vídeo"
+
+msgid "Applications"
+msgstr "Aplicações"
+
+msgid "Web"
+msgstr "Web"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Media"
+msgstr "Média"
+
+msgid "XBMC on graphtft Display"
+msgstr "XBMC no ecrã do graphtft"
+
+msgid "Games"
+msgstr "Jogos"
+
+msgid "Tools"
+msgstr "Ferramentas"
+
+msgid "Xterm"
+msgstr "XTerm"
+
+msgid "System"
+msgstr "Sistema"
+
+msgid "Commands"
+msgstr "Comandos"
+
+msgid "Safely remove usb mass storage"
+msgstr "Remover de forma segura o dispositivo USB"
+
+msgid "Update vdr recordings list"
+msgstr "Actualizar lista de gravações do VDR"
+
+msgid "Restart vdr"
+msgstr "Reiniciar VDR"
+
+msgid "Reboot system"
+msgstr "Reiniciar sistema"
+
+msgid "Shutdown system"
+msgstr "Desligar sistema"
