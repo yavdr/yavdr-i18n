@@ -5,14 +5,14 @@
 #
 #, fuzzy
 
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-08-12 18:55+0200\n"
+"Project-Id-Version: yavdr-i18n\n"
+"Report-Msgid-Bugs-To: <see README>\n"
+"POT-Creation-Date: 2011-04-14 17:02+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: Holger Schvestka <hotzenplotz5@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Timer"
@@ -64,6 +64,7 @@ msgid "Shutdown system"
 msgstr ""
 
 #: begin avahi-mounter
+
 msgid "Recordings_on_"
 msgstr ""
 
@@ -79,11 +80,7 @@ msgstr ""
 msgid "Miscellaneous_on_"
 msgstr ""
 
-#: end avahi-mounter
-
-#: begin web front end
-
-#: yavdrweb-ng/static/javascripts/component/settings/hw_audio.js
+#: end avahi-mounter begin web front end yavdrweb-ng/static/javascripts/component/settings/hw_audio.js
 
 msgid "Please select the audio output. Make your choice and press \"Save\". At saving VDR and the video output will be restarted in order to make your choice activ."
 msgstr ""
@@ -485,7 +482,7 @@ msgstr ""
 msgid "If you want to use VDR as backend for XBMC and watch TV only in XBMC this is your choice."
 msgstr ""
 
-msgid "You can choose this if you don\'t want to have any video output. This is if you want to use yavdr as server, or disable any decoding on video cards."
+msgid "You can choose this if you don't want to have any video output. This is if you want to use yavdr as server, or disable any decoding on video cards."
 msgstr ""
 
 msgid "Video Output"
@@ -531,9 +528,6 @@ msgid "Apt history of recently installed packages"
 msgstr ""
 
 #: yavdrweb-ng/static/javascripts/component/system/diagnose_lirc.js
-
-msgid "LIRC configuration"
-msgstr ""
 
 msgid "LIRC hardware configuration"
 msgstr ""
@@ -619,9 +613,7 @@ msgstr ""
 
 msgid "Schedule"
 msgstr ""
-
 #: yavdrweb-ng/static/javascripts/component/recordings.js
-
 #: yavdrweb-ng/static/javascripts/component/settings.js
 
 msgid "Here you can configure your VDR and applications around it."
@@ -671,9 +663,6 @@ msgstr ""
 msgid "Sound (ALSA)"
 msgstr ""
 
-msgid "XBMC crash log"
-msgstr ""
-
 msgid "System log files"
 msgstr ""
 
@@ -684,9 +673,6 @@ msgid "LIRC configuration"
 msgstr ""
 
 msgid "VDR configuration"
-msgstr ""
-
-msgid "Timer"
 msgstr ""
 
 #: yavdrweb-ng/static/javascripts/base.js
@@ -781,9 +767,6 @@ msgid "Do you realy want to remove this configration:"
 msgstr ""
 
 msgid " (local)"
-msgstr ""
-
-msgid "Basic settings"
 msgstr ""
 
 msgid "Network-Support"
