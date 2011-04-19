@@ -576,10 +576,10 @@ msgid "General"
 msgstr "Allgemein"
 
 msgid "Remote control"
-msgstr "Einstellung der Fernbedinung"
+msgstr "Einstellung der Fernbedienung"
 
 msgid "Audio"
-msgstr "Audio-Einstellunngen"
+msgstr "Audio"
 
 msgid "Packages"
 msgstr "Pakete"
