@@ -29,3 +29,4 @@ $(I18Njson): $(LOCALEDIRJSON)/%/LC_MESSAGES/yavdr.json: $(PODIR)/%.po
 
 clean:
 	@rm -f *.mo
+
