@@ -882,6 +882,12 @@ msgstr ""
 msgid "Edit"
 msgstr ""
 
+msgid "unknown"
+msgstr ""
+
+msgid "Y-m-d H:i"
+msgstr ""
+
 #: end web front end
 
 

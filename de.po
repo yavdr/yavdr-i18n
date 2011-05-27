@@ -824,3 +824,8 @@ msgstr "aktiviert"
 msgid "Edit"
 msgstr "Bearbeiten"
 
+msgid "unknown"
+msgstr "unbekannt"
+
+msgid "Y-m-d H:i"
+msgstr "d.m.Y H:i"
