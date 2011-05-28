@@ -6,6 +6,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: Holger Schvestka <hotzenplotz5@gmx.de>\n"
 "Language-Team: \n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -56,7 +57,6 @@ msgstr ""
 msgid "Shutdown system"
 msgstr ""
 
-#: begin yavdr-addons
 msgid "CD-Ripper Asunder"
 msgstr ""
 
@@ -138,7 +138,6 @@ msgstr ""
 msgid "Helix"
 msgstr ""
 
-#: begin avahi-mounter
 msgid "Recording"
 msgstr ""
 
@@ -154,8 +153,6 @@ msgstr ""
 msgid "Miscellaneous"
 msgstr ""
 
-#: end avahi-mounter begin web front
-#: yavdrweb-ng/static/javascripts/component/settings/hw_audio.js
 msgid "Please select the audio output. Make your choice and press \"Save\". At saving VDR and the video output will be restarted in order to make your choice activ."
 msgstr ""
 
@@ -192,7 +189,6 @@ msgstr ""
 msgid "Audio output"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component/settings/hw_display.js
 msgid "Here you can configure your display settings."
 msgstr ""
 
@@ -259,7 +255,6 @@ msgstr ""
 msgid "rate"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component/settings/hw_remote.js
 msgid "Settings"
 msgstr ""
 
@@ -296,7 +291,6 @@ msgstr ""
 msgid "Activate EventLircd"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component/settings/system_config_editor.js
 msgid "Choose a file:"
 msgstr ""
 
@@ -318,7 +312,6 @@ msgstr ""
 msgid "Please wait..."
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component/settings/system_generic.js
 msgid "General system settings are made here."
 msgstr ""
 
@@ -388,7 +381,6 @@ msgstr ""
 msgid "Deactivate USB-wakeup, for incompatible hardware"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component/settings/system_network.js
 msgid "Network"
 msgstr ""
 
@@ -404,7 +396,6 @@ msgstr ""
 msgid "The name is missing"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component/settings/system_packages.js
 msgid "load new information from internet"
 msgstr ""
 
@@ -441,7 +432,6 @@ msgstr ""
 msgid "Version"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component/settings/vdr_channels.js
 msgid "Name of the group"
 msgstr ""
 
@@ -514,7 +504,6 @@ msgstr ""
 msgid "Delete selection"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component/settings/vdr_generic.js
 msgid "Here you can make general setting for and around VDR."
 msgstr ""
 
@@ -557,7 +546,6 @@ msgstr ""
 msgid "Charset override"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose.js
 msgid "Diagnostics"
 msgstr ""
 
@@ -567,7 +555,6 @@ msgstr ""
 msgid "Go to the end"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_alsa.js
 msgid "ALSA status information"
 msgstr ""
 
@@ -577,7 +564,6 @@ msgstr ""
 msgid "ALSA custom sound configuration"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_dpkg.js
 msgid "Package information"
 msgstr ""
 
@@ -587,14 +573,12 @@ msgstr ""
 msgid "Apt history of recently installed packages"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_lirc.js
 msgid "LIRC hardware configuration"
 msgstr ""
 
 msgid "LIRCD configuration"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_system_information.js
 msgid "System information"
 msgstr ""
 
@@ -610,11 +594,9 @@ msgstr ""
 msgid "Kernel log"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_system_logs.js
 msgid "Webserver logfile"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_vdr.js
 msgid "VDR basic configuration"
 msgstr ""
 
@@ -624,7 +606,6 @@ msgstr ""
 msgid "VDR remote.conf"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_x11.js
 msgid "Xorg server log"
 msgstr ""
 
@@ -634,18 +615,15 @@ msgstr ""
 msgid "X-Server logfile"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_xbmc.js
 msgid "XBMC crash log"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_yavdr.js
 msgid "yaVDR database"
 msgstr ""
 
 msgid "yaVDR DB"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component/dashboard.js
 msgid "VDR"
 msgstr ""
 
@@ -661,12 +639,9 @@ msgstr ""
 msgid "Start"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component/programm.js
 msgid "Schedule"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component/recordings.js
-#: yavdrweb-ng/static/javascripts/component/settings.js
 msgid "Here you can configure your VDR and applications around it."
 msgstr ""
 
@@ -685,7 +660,6 @@ msgstr ""
 msgid "Packages"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component/system.js
 msgid "Here you can monitor your system. You can look into log files and send them to pastebin to let others review them."
 msgstr ""
 
@@ -722,7 +696,6 @@ msgstr ""
 msgid "VDR configuration"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/base.js
 msgid "Dashboard"
 msgstr ""
 
@@ -741,11 +714,9 @@ msgstr ""
 msgid "Data stored successfully."
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/component.js
 msgid "Introduction"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/dpkg.js
 msgid "Close"
 msgstr ""
 
@@ -770,7 +741,6 @@ msgstr ""
 msgid "Would you like to disable \"%s\"?"
 msgstr ""
 
-#: yavdrweb-ng/static/javascripts/pastebin.js
 msgid "Title (optional)"
 msgstr ""
 
@@ -783,7 +753,6 @@ msgstr ""
 msgid "Send"
 msgstr ""
 
-#: hw_sundtek.js
 msgid "You can configure your sundtek DVB hardware here."
 msgstr ""
 
@@ -855,3 +824,6 @@ msgstr ""
 
 msgid "Y-m-d H:i"
 msgstr ""
+
+msgid "H:i"
+msgstr "h:ia"

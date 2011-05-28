@@ -6,8 +6,9 @@ msgstr ""
 "PO-Revision-Date: 2011-05-18 21:45+0200\n"
 "Last-Translator: Valdemaras Pipiras <valdemaras@ambernet.lt>\n"
 "Language-Team: YaVDR Lietuviškai <valdemaras@ambernet.lt>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Timer"
@@ -54,8 +55,6 @@ msgstr "Perkrauti sistemą"
 
 msgid "Shutdown system"
 msgstr "Išjungti sistemą"
-
-#: begin yavdr-addons
 
 msgid "CD-Ripper Asunder"
 msgstr "CD-Ripper"
@@ -138,8 +137,6 @@ msgstr "You-Tube"
 msgid "Helix"
 msgstr "Helix"
 
-#: begin avahi-mounter
-
 msgid "Recording"
 msgstr "Įrašas"
 
@@ -154,8 +151,6 @@ msgstr "Paveikslas"
 
 msgid "Miscellaneous"
 msgstr "Įvairūs"
-
-#: end avahi-mounter begin web front end yavdrweb-ng/static/javascripts/component/settings/hw_audio.js
 
 msgid "Please select the audio output. Make your choice and press \"Save\". At saving VDR and the video output will be restarted in order to make your choice activ."
 msgstr "Išsirinkite garso išvestį. Pasirinkę spauskite \"Išsaugoti\" mygtuką. Išsaugojus VDR ir videu išvestis persikraus."
@@ -192,8 +187,6 @@ msgstr "Garsas bus išvedamas per HDMI jungtį kiaurai praleidžiant skaitmenin�
 
 msgid "Audio output"
 msgstr "Garso išvestis"
-
-#: yavdrweb-ng/static/javascripts/component/settings/hw_display.js
 
 msgid "Here you can configure your display settings."
 msgstr "Čia galite konfigūruoti ekrano nustatymus."
@@ -261,8 +254,6 @@ msgstr "Numatytasis dažnis"
 msgid "rate"
 msgstr "dažnis"
 
-#: yavdrweb-ng/static/javascripts/component/settings/hw_remote.js
-
 msgid "Settings"
 msgstr "Nustatymai"
 
@@ -299,8 +290,6 @@ msgstr "Aktyvuoti LIRC"
 msgid "Activate EventLircd"
 msgstr "Aktyvuoti EventLircd"
 
-#: yavdrweb-ng/static/javascripts/component/settings/system_config_editor.js
-
 msgid "Choose a file:"
 msgstr "Pasirinkite bylą:"
 
@@ -321,8 +310,6 @@ msgstr "Siųsti į PasteBin svetainę"
 
 msgid "Please wait..."
 msgstr "Lukterkit..."
-
-#: yavdrweb-ng/static/javascripts/component/settings/system_generic.js
 
 msgid "General system settings are made here."
 msgstr "Pagrindiniai sistemos nustatymai atliekami čia."
@@ -393,8 +380,6 @@ msgstr "Išjungti galimybę pakelti naudojant USB"
 msgid "Deactivate USB-wakeup, for incompatible hardware"
 msgstr "Nesuderinamai įrangai, išjungti galimybę pakelti naudojant USB"
 
-#: yavdrweb-ng/static/javascripts/component/settings/system_network.js
-
 msgid "Network"
 msgstr "Tinklas"
 
@@ -409,8 +394,6 @@ msgstr "Ištrint"
 
 msgid "The name is missing"
 msgstr "Neįvestas pavadinimas"
-
-#: yavdrweb-ng/static/javascripts/component/settings/system_packages.js
 
 msgid "load new information from internet"
 msgstr "krauti naują informaciją iš interneto"
@@ -447,8 +430,6 @@ msgstr "Pasirinkite paketą jei norite pamatyti daugiau informacijos."
 
 msgid "Version"
 msgstr "Versija"
-
-#: yavdrweb-ng/static/javascripts/component/settings/vdr_channels.js
 
 msgid "Name of the group"
 msgstr "Grupęs pavadinimas"
@@ -522,8 +503,6 @@ msgstr "Trinti \"%s\""
 msgid "Delete selection"
 msgstr "Trinti pasirinktus"
 
-#: yavdrweb-ng/static/javascripts/component/settings/vdr_generic.js
-
 msgid "Here you can make general setting for and around VDR."
 msgstr "Čia galite nustatyti pagrindinius VDR ir susijusius nustatymus."
 
@@ -566,8 +545,6 @@ msgstr "Perrašyti neteisingus su DVB standartu nesuderinamus EPG kodavimus, kai
 msgid "Charset override"
 msgstr "Kodavimo perrašymas"
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose.js
-
 msgid "Diagnostics"
 msgstr "Diagnostika"
 
@@ -576,8 +553,6 @@ msgstr "Atnaujinimas"
 
 msgid "Go to the end"
 msgstr "Eiti į pabaigą"
-
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_alsa.js
 
 msgid "ALSA status information"
 msgstr "Informacija apie ALSA būseną"
@@ -588,8 +563,6 @@ msgstr "ALSA įrenginių sąrašas"
 msgid "ALSA custom sound configuration"
 msgstr "Asmeniniai ALSA garso nustatymai"
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_dpkg.js
-
 msgid "Package information"
 msgstr "Paketo informacija"
 
@@ -599,15 +572,11 @@ msgstr "Įdiegti paketai (VDR, VDR-Plugins, VDR-Addons, XBMC, yavdr)"
 msgid "Apt history of recently installed packages"
 msgstr "Idiegtų paketų Apt istorija"
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_lirc.js
-
 msgid "LIRC hardware configuration"
 msgstr "LIRC geležies nustatymai"
 
 msgid "LIRCD configuration"
 msgstr "LIRCD nustatymai"
-
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_system_information.js
 
 msgid "System information"
 msgstr "Sistemos informacija"
@@ -624,12 +593,8 @@ msgstr "Failų sistemos užimtumas"
 msgid "Kernel log"
 msgstr "Branduolio ataskaitos (log)"
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_system_logs.js
-
 msgid "Webserver logfile"
 msgstr "Web serverio ataskaitos"
-
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_vdr.js
 
 msgid "VDR basic configuration"
 msgstr "Įprastiniai VDR nustatymai"
@@ -640,8 +605,6 @@ msgstr "VDR setup.conf"
 msgid "VDR remote.conf"
 msgstr "VDR remote.conf"
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_x11.js
-
 msgid "Xorg server log"
 msgstr "Xorg server log"
 
@@ -651,20 +614,14 @@ msgstr "X-Server nustatymai (tik tuo atveju jei įranga turi NVIDIA VDPAU sparti
 msgid "X-Server logfile"
 msgstr "X-Server ataskaitos"
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_xbmc.js
-
 msgid "XBMC crash log"
 msgstr "XBMC lūžimo ataskaitos"
-
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_yavdr.js
 
 msgid "yaVDR database"
 msgstr "yaVDR duomenų bazė"
 
 msgid "yaVDR DB"
 msgstr "yaVDR DB"
-
-#: yavdrweb-ng/static/javascripts/component/dashboard.js
 
 msgid "VDR"
 msgstr "VDR"
@@ -681,12 +638,8 @@ msgstr "Laikmačiai"
 msgid "Start"
 msgstr "Pradžia"
 
-#: yavdrweb-ng/static/javascripts/component/programm.js
-
 msgid "Schedule"
 msgstr "Programa"
-#: yavdrweb-ng/static/javascripts/component/recordings.js
-#: yavdrweb-ng/static/javascripts/component/settings.js
 
 msgid "Here you can configure your VDR and applications around it."
 msgstr "Čia galite nustatyti VDR ir susijusias programas."
@@ -705,8 +658,6 @@ msgstr "Koreguoti nustatymus"
 
 msgid "Packages"
 msgstr "Paketai"
-
-#: yavdrweb-ng/static/javascripts/component/system.js
 
 msgid "Here you can monitor your system. You can look into log files and send them to pastebin to let others review them."
 msgstr "Čia galite stebėti savo sistemos darbą. Galite peržiūrėti ataskaitų bylas (log files) ir persiųsti jas į pastebin kad kiti galėtų jas įvertinti."
@@ -744,8 +695,6 @@ msgstr "LIRC nustatymai"
 msgid "VDR configuration"
 msgstr "VDR nustatymai"
 
-#: yavdrweb-ng/static/javascripts/base.js
-
 msgid "Dashboard"
 msgstr "Sąrankų skydelis"
 
@@ -764,12 +713,8 @@ msgstr "Klaida saugant duomenis."
 msgid "Data stored successfully."
 msgstr "Duomenys išsaugoti sėkmingai."
 
-#: yavdrweb-ng/static/javascripts/component.js
-
 msgid "Introduction"
 msgstr "Įvadas"
-
-#: yavdrweb-ng/static/javascripts/dpkg.js
 
 msgid "Close"
 msgstr "Uždaryti"
@@ -795,8 +740,6 @@ msgstr "Išjungti įskiepą?"
 msgid "Would you like to disable \"%s\"?"
 msgstr "Ar norėtumėte išjungti \"%s\"?"
 
-#: yavdrweb-ng/static/javascripts/pastebin.js
-
 msgid "Title (optional)"
 msgstr "Pavadinimas (nebūtinas)"
 
@@ -808,8 +751,6 @@ msgstr "Turinys"
 
 msgid "Send"
 msgstr "Siųsti"
-
-#: hw_sundtek.js
 
 msgid "You can configure your sundtek DVB hardware here."
 msgstr "Čia galite nustatyti savo sundtek DVB geležį."
@@ -877,7 +818,11 @@ msgstr "įjungta"
 msgid "Edit"
 msgstr "Koreguoti"
 
-#: end web front end
+msgid "unknown"
+msgstr ""
 
+msgid "Y-m-d H:i"
+msgstr ""
 
-
+msgid "H:i"
+msgstr ""

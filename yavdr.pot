@@ -888,7 +888,7 @@ msgstr ""
 msgid "Y-m-d H:i"
 msgstr ""
 
+msgid "H:i"
+msgstr ""
+
 #: end web front end
-
-
-

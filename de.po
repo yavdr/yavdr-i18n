@@ -829,3 +829,6 @@ msgstr "unbekannt"
 
 msgid "Y-m-d H:i"
 msgstr "d.m.Y H:i"
+
+msgid "H:i"
+msgstr "H:i"
