@@ -1,0 +1,869 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yavdr-i18n\n"
+"Report-Msgid-Bugs-To: <see README>\n"
+"POT-Creation-Date: 2011-04-14 17:02+0100\n"
+"PO-Revision-Date: 2011-06-19 02:05+0100\n"
+"Last-Translator: Diego Pierotto <vdr-italian@tiscali.it>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "Timer"
+msgstr "Timer"
+
+msgid "Applications"
+msgstr "Applicazioni"
+
+msgid "Web"
+msgstr "Web"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Media"
+msgstr "Multimedia"
+
+msgid "XBMC on graphtft Display"
+msgstr "XBMC su schermo GraphTFT"
+
+msgid "Games"
+msgstr "Giochi"
+
+msgid "Tools"
+msgstr "Strumenti"
+
+msgid "Xterm"
+msgstr "Terminale"
+
+msgid "Commands"
+msgstr "Comandi"
+
+msgid "Safely remove usb mass storage"
+msgstr "Rimozione unità USB in sicurezza"
+
+msgid "Update vdr recordings list"
+msgstr "Aggiorna elenco registrazioni VDR"
+
+msgid "Restart VDR"
+msgstr "Riavvia VDR"
+
+msgid "Reboot system"
+msgstr "Riavvia sistema"
+
+msgid "Shutdown system"
+msgstr "Arresta sistema"
+
+#: begin yavdr-addons
+msgid "CD-Ripper Asunder"
+msgstr "Estrazione tracce CD Asunder"
+
+msgid "Chromium 2D-Shooter"
+msgstr "Sparatutto Chromium 2D"
+
+msgid "Mail"
+msgstr "Posta"
+
+msgid "DVD-Rip"
+msgstr "Estrazione DVD"
+
+msgid "M.A.M.E"
+msgstr "M.A.M.E"
+
+msgid "ARD"
+msgstr "ARD"
+
+msgid "ZDF"
+msgstr "ZDF"
+
+msgid "DMAX"
+msgstr "DMAX"
+
+msgid "Golem-Video"
+msgstr "Video Golem"
+
+msgid "SAT1"
+msgstr "SAT1"
+
+msgid "Gametrailers"
+msgstr "Gametrailers"
+
+msgid "Performous"
+msgstr "Performous"
+
+msgid "Pidgin"
+msgstr "Pidgin"
+
+msgid "PIP on/off"
+msgstr "PIP attivo/disattivo"
+
+msgid "PIP swap"
+msgstr "Scambio PIP"
+
+msgid "PIP"
+msgstr "PIP"
+
+msgid "Semsix"
+msgstr "Semsix"
+
+msgid "Simfy"
+msgstr "Simfy"
+
+msgid "Skype"
+msgstr "Skype"
+
+msgid "SuperTuxKart"
+msgstr "SuperTuxKart"
+
+msgid "Thunderbird-Mail"
+msgstr "Posta Thunderbird"
+
+msgid "Extreme Tuxracer"
+msgstr "Extreme Tuxracer"
+
+msgid "TV-Browser"
+msgstr "Sfoglia TV"
+
+msgid "VLC-Media-Player"
+msgstr "Lettore multimediale VLC"
+
+msgid "Wormux"
+msgstr "Wormux"
+
+msgid "You-Tube"
+msgstr "YouTube"
+
+msgid "Helix"
+msgstr "Helix"
+
+#: begin avahi-mounter
+msgid "Recording"
+msgstr "Registrazioni"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Music"
+msgstr "Musica"
+
+msgid "Picture"
+msgstr "Immagini"
+
+msgid "Miscellaneous"
+msgstr "Generici"
+
+#: end avahi-mounter begin web front
+#: yavdrweb-ng/static/javascripts/component/settings/hw_audio.js
+msgid "Please select the audio output. Make your choice and press \"Save\". At saving VDR and the video output will be restarted in order to make your choice activ."
+msgstr "Seleziona l'uscita audio. Scegli e premi \"Salva\". Dopo il salvataggio VDR e l'uscita video saranno riavviati per rendere attive le modifiche."
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Output to all devices"
+msgstr "Su tutti i dispositivi di uscita"
+
+msgid "Analog"
+msgstr "Analogico"
+
+msgid "Audio output will happen through the speaker/headphone plug"
+msgstr "L'uscita audio funzionerà tramite gli altoparlanti/cuffie"
+
+msgid "Digital (Toslink/SPDIF)"
+msgstr "Digitale (Toslink/SPDIF)"
+
+msgid "Audio output will happen through Toslink/SPDIF."
+msgstr "L'uscita audio funzionerà tramite Toslink/SPDIF."
+
+msgid "HDMI-Stereo"
+msgstr "HDMI Stereo"
+
+msgid "Audio output will happen through HDMI in PCM. This variant does a downmix for HDMI devices which only can handle stereo (i.e. tv sets)."
+msgstr "L'uscita audio funzionerà tramite HDMI in PCM. Questa variante mescola/converte l'audio e funziona solo con i dispositivi HDMI in modalità stereo (es. apparecchi TV)."
+
+msgid "HDMI-Passthrough"
+msgstr "HDMI Passthrough"
+
+msgid "Audio output will happen through HDMI with Pass Through."
+msgstr "L'uscita audio funzionerà tramite HDMI con Pass Through."
+
+msgid "Audio output"
+msgstr "Uscita audio"
+
+#: yavdrweb-ng/static/javascripts/component/settings/hw_display.js
+msgid "Here you can configure your display settings."
+msgstr "Qui puoi configurare le impostazioni video."
+
+msgid "Display"
+msgstr "Schermo"
+
+msgid "Rescan displays"
+msgstr "Rileva schermi"
+
+msgid "Refresh rate"
+msgstr "Frequenza aggiornamento"
+
+msgid "Device"
+msgstr "Dispositivo"
+
+msgid "Primary"
+msgstr "Primario"
+
+msgid "Secondary"
+msgstr "Secondario"
+
+msgid "Select resolution"
+msgstr "Seleziona risoluzione"
+
+msgid "Resolution"
+msgstr "Risoluzione"
+
+msgid "Nvidia overscan compensation"
+msgstr "Compensazione Overscan NVIDIA"
+
+msgid "Basic"
+msgstr "Base"
+
+msgid "Dual-Head Mode"
+msgstr "Modalità Dual-Head"
+
+msgid "GraphTFT"
+msgstr "GraphTFT"
+
+msgid "Xine"
+msgstr "Xine"
+
+msgid "Xine HD deinterlacer"
+msgstr "Deinterlacciamento Xine HD"
+
+msgid "default"
+msgstr "predefinito"
+
+msgid "Xine SD deinterlacer"
+msgstr "Deinterlacciamento Xine SD"
+
+msgid "disabled (less than 2 displays found)"
+msgstr "disabilitato (meno di 2 schermi trovati)"
+
+msgid "Rescan display. Displays may flicker."
+msgstr "Rileva schermo. E' possibile uno sfarfallio degli schermi."
+
+msgid "Rescan display failed."
+msgstr "Rilevamento schermo fallito."
+
+msgid "Default frequency"
+msgstr "Frequenza predefinita"
+
+msgid "rate"
+msgstr "frequenza"
+
+#: yavdrweb-ng/static/javascripts/component/settings/hw_remote.js
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Here you can configure your remote hardware. The default and most common choice is EventLircd."
+msgstr "Qui puoi configurare il telecomando. La scelta più comune e predefinita è EventLircd."
+
+msgid "EventLircd"
+msgstr "EventLircd"
+
+msgid "LIRC"
+msgstr "LIRC"
+
+msgid "Driver"
+msgstr "Driver"
+
+msgid "LIRC driver"
+msgstr "Driver LIRC"
+
+msgid "HW-Default"
+msgstr "HW predefinito"
+
+msgid "Lircd-Conf"
+msgstr "Configurazione Lircd"
+
+msgid "Receiver"
+msgstr "Ricevitore"
+
+msgid "Serial port"
+msgstr "Porta seriale"
+
+msgid "Activate LIRC"
+msgstr "Attiva LIRC"
+
+msgid "Activate EventLircd"
+msgstr "Attiva EventLircd"
+
+#: yavdrweb-ng/static/javascripts/component/settings/system_config_editor.js
+msgid "Choose a file:"
+msgstr "Scegli un file:"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "System"
+msgstr "Sistema"
+
+msgid "Reload"
+msgstr "Ricarica"
+
+msgid "Mark content"
+msgstr "Segna contenuto"
+
+msgid "Send to PasteBin"
+msgstr "Invia a PasteBin"
+
+msgid "Please wait..."
+msgstr "Attendere prego..."
+
+#: yavdrweb-ng/static/javascripts/component/settings/system_generic.js
+msgid "General system settings are made here."
+msgstr "Qui puoi configurare le impostazioni di sistema."
+
+msgid "Webfrontend language"
+msgstr "Lingua interfaccia web"
+
+msgid "Shutdown and wakeup"
+msgstr "Spegni e risveglia"
+
+msgid "Grub"
+msgstr "Grub"
+
+msgid "Choose timeout in seconds:"
+msgstr "Scegli scadenza in secondi:"
+
+msgid "\"The maximum is 10.\""
+msgstr "\"Il massimo è 10.\""
+
+msgid "\"The minimum is 0.\""
+msgstr "\"Il minimo è 0.\""
+
+msgid "\"Language\""
+msgstr "\"Lingua\""
+
+msgid "Suspend to RAM"
+msgstr "Sospensione su RAM"
+
+msgid "Switches the computer into energy saving mode. Only RAM will be supplied with Power."
+msgstr "Imposta il computer in modalità risparmio energetico. Solo la RAM necessità di alimentazione."
+
+msgid "Fake suspend to disk"
+msgstr "Finta sospensione su disco"
+
+msgid "Alternative for Suspend to RAM. This can be used as a fallback for some problematic devices"
+msgstr "Alternativo a Sospensione su RAM. Può essere usata come soluzione su alcuni dispositivi problematici"
+
+msgid "Shutdown"
+msgstr "Spegnimento"
+
+msgid "This is the classical shutdown."
+msgstr "Questo è il classico spegnimento."
+
+msgid "reboot PowerOff-kernel"
+msgstr "riavvio kernel con PowerOff"
+
+msgid "Some Hardware needs the PowerOff kernel in order to be able to shut down. Use this if you have this problem."
+msgstr "Alcuni sistemi hanno bisogno del kernel PowerOff per consentire lo spegnimento. Utilizzalo se hai questi problemi."
+
+msgid "Without timer wakeup."
+msgstr "Senza timer di risveglio."
+
+msgid "ACPI timer wakeup. YaVDR default setting."
+msgstr "Risveglio timer ACPI. Impostazione predefinita di yaVDR."
+
+msgid "You need a special nvram configuration to use it."
+msgstr "E' necessaria una speciale configurazione NVRAM per usarlo."
+
+msgid "Shutdown method"
+msgstr "Metodo spegnimento"
+
+msgid "Wakeup method"
+msgstr "Metodo risveglio"
+
+msgid "Disable USB-wakeup"
+msgstr "Disabilita risveglio USB"
+
+msgid "Deactivate USB-wakeup, for incompatible hardware"
+msgstr "Disattiva il risveglio tramite USB, per sistemi non compatibili"
+
+#: yavdrweb-ng/static/javascripts/component/settings/system_network.js
+msgid "Network"
+msgstr "Rete"
+
+msgid "You can define Host and shares which should be mounted automatically. You need to key in the shares using \"host:/path/to/the/share\"."
+msgstr "Puoi definire sistemi e condivisioni che devono essere montati in automatico. Devi inserire le condivisioni usando \"sistema:/percorso/della/condivisione\"."
+
+msgid "Add"
+msgstr "Aggiungi"
+
+msgid "Delete"
+msgstr "Elimina"
+
+msgid "The name is missing"
+msgstr "Nome mancante"
+
+#: yavdrweb-ng/static/javascripts/component/settings/system_packages.js
+msgid "load new information from internet"
+msgstr "carica nuove informazioni da Internet"
+
+msgid "remove unneeded packages"
+msgstr "rimuovi pacchetti orfani"
+
+msgid "clears out the local repository of retrieved package file"
+msgstr "pulisci il repository locale dei pacchetti ritrovati"
+
+msgid "Install"
+msgstr "Installa"
+
+msgid "Remove"
+msgstr "Rimuovi"
+
+msgid "Activate"
+msgstr "Attiva"
+
+msgid "Deactivate"
+msgstr "Disattiva"
+
+msgid "Package"
+msgstr "Pacchetto"
+
+msgid "Maintainer"
+msgstr "Sviluppatore"
+
+msgid "Description"
+msgstr "Descrizione"
+
+msgid "Please select a package to see additional details."
+msgstr "Seleziona un pacchetto per vedere ulteriori dettagli."
+
+msgid "Version"
+msgstr "Versione"
+
+#: yavdrweb-ng/static/javascripts/component/settings/vdr_channels.js
+msgid "Name of the group"
+msgstr "Nome gruppo"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Next channel no."
+msgstr "Canale successivo n°."
+
+msgid "\"ChannelsReader.read: Channels not available\""
+msgstr "\"ChannelsReader.read: Canale NON disponibile\""
+
+msgid "Channels saved"
+msgstr "Canali salvati"
+
+msgid "generated channels.conf"
+msgstr "file channels.conf generato"
+
+msgid "Channels"
+msgstr "Canali"
+
+msgid "Clipboard"
+msgstr "Appunti"
+
+msgid "Move into channels.conf"
+msgstr "Copia nel file channels.conf"
+
+msgid "Add new group"
+msgstr "Aggiungi nuovo gruppo"
+
+msgid "Please enter the group name:"
+msgstr "Inserisci nome gruppo:"
+
+msgid "Display channels.conf"
+msgstr "Mostra file channels.conf"
+
+msgid "\"Channel\""
+msgstr "\"Canale\""
+
+msgid "\"Name\""
+msgstr "\"Nome\""
+
+msgid "\"Provider\""
+msgstr "\"Emittente\""
+
+msgid "\"loading channels\""
+msgstr "\"caricamento canali\""
+
+msgid "Move into clipboard"
+msgstr "Copia negli appunti"
+
+msgid "On top"
+msgstr "In cima"
+
+msgid "At bottom"
+msgstr "In fondo"
+
+msgid "Insert clipboard"
+msgstr "Incolla appunti"
+
+msgid "Above %s"
+msgstr "Sopra %s"
+
+msgid "Below %s"
+msgstr "Sotto %s"
+
+msgid "Delete \"%s\""
+msgstr "Elimina \"%s\""
+
+msgid "Delete selection"
+msgstr "Elimina selezione"
+
+#: yavdrweb-ng/static/javascripts/component/settings/vdr_generic.js
+msgid "Here you can make general setting for and around VDR."
+msgstr "Qui puoi impostare le opzioni generali di VDR."
+
+msgid "General"
+msgstr "Generale"
+
+msgid "Lifeguard monitoring items"
+msgstr "Valori monitoraggio assistente"
+
+msgid "EPG"
+msgstr "Guida programmi EPG"
+
+msgid "Lifeguard"
+msgstr "Assistente"
+
+msgid "VDR-Lifeguard will check the choosen items before allowing the shutdown. Please choose the items which should not be interrupted by a shutdown. Not checked means it will not block the shutdown."
+msgstr "L'assistente VDR controllerà i valori selezionati prima consentendo lo spegnimento. Scegli le voci che non dovrebbero essere interrotte da uno spegnimento. Nessuna selezione significa che non bloccherà lo spegnimento."
+
+msgid "This choice is using the xineliboutput plugin with frontend vdr-sxfe."
+msgstr "Questa scelta utilizza il plugin xineliboutput con interfaccia vdr-sxfe."
+
+msgid "This is an alternative frontend. It is using the xine plugin using Xine for decoding."
+msgstr "Questa è un'interfaccia alternativa. Utilizza il plugin xine con Xine per la decodifica."
+
+msgid "If you want to use VDR as backend for XBMC and watch TV only in XBMC this is your choice."
+msgstr "Qui puoi scegliere se vuoi usare VDR come sistema per XBMC e guardare la TV solo tramite XBMC."
+
+msgid "You can choose this if you don't want to have any video output. This is if you want to use yavdr as server, or disable any decoding on video cards."
+msgstr "Qui puoi scegliere se non vuoi avere alcuna uscita video. In questo caso puoi usare yaVDR come server o disabilitare qualsiasi decodifica sulle schede video."
+
+msgid "If you want to use VDR with a TT-premium S2-6400 HD."
+msgstr "Se vuoi usare VDR con una scheda TT-premium S2-6400 HD."
+
+msgid "Video Output"
+msgstr "Uscita video"
+
+msgid "Override incorrect not DVB compliant EPG Encoding, as send by Sky"
+msgstr "Ignora codifica EPG incorretta e non compatibile con DVB, come quella di Sky"
+
+msgid "Charset override"
+msgstr "Ignora caratteri"
+
+#: yavdrweb-ng/static/javascripts/component/system/diagnose.js
+msgid "Diagnostics"
+msgstr "Diagnostica"
+
+msgid "Refresh"
+msgstr "Aggiorna"
+
+msgid "Go to the end"
+msgstr "Vai alla fine"
+
+#: yavdrweb-ng/static/javascripts/component/system/diagnose_alsa.js
+msgid "ALSA status information"
+msgstr "Informazioni stato ALSA"
+
+msgid "ALSA device list"
+msgstr "Periferiche ALSA"
+
+msgid "ALSA custom sound configuration"
+msgstr "Configurazione personalizzata suono ALSA"
+
+#: yavdrweb-ng/static/javascripts/component/system/diagnose_dpkg.js
+msgid "Package information"
+msgstr "Informazioni pacchetto"
+
+msgid "Installed packages (VDR, VDR-Plugins, VDR-Addons, XBMC, yavdr)"
+msgstr "Pacchetti installati (VDR, plugins VDR, addons VDR, XBMC, yaVDR)"
+
+msgid "Apt history of recently installed packages"
+msgstr "Cronologia pacchetti installati recentemente"
+
+#: yavdrweb-ng/static/javascripts/component/system/diagnose_lirc.js
+msgid "LIRC hardware configuration"
+msgstr "Configurazione hardware LIRC"
+
+msgid "LIRCD configuration"
+msgstr "Configurazione LIRCD"
+
+#: yavdrweb-ng/static/javascripts/component/system/diagnose_system_information.js
+msgid "System information"
+msgstr "Informazioni di sistema"
+
+msgid "System load"
+msgstr "Utilizzo sistema"
+
+msgid "Network status"
+msgstr "Utilizzo rete"
+
+msgid "Filesystem usage"
+msgstr "Utilizzo dischi"
+
+msgid "Kernel log"
+msgstr "Registro kernel"
+
+#: yavdrweb-ng/static/javascripts/component/system/diagnose_system_logs.js
+msgid "Webserver logfile"
+msgstr "File registro server web"
+
+#: yavdrweb-ng/static/javascripts/component/system/diagnose_vdr.js
+msgid "VDR basic configuration"
+msgstr "Configurazione base VDR"
+
+msgid "VDR setup.conf"
+msgstr "File setup.conf VDR"
+
+msgid "VDR remote.conf"
+msgstr "File remote.conf VDR"
+
+#: yavdrweb-ng/static/javascripts/component/system/diagnose_x11.js
+msgid "Xorg server log"
+msgstr "Registro server Xorg"
+
+msgid "X-Server configuration (only if NVIDIA VDPAU present)"
+msgstr "Configurazione server X (solo se NVIDIA VDPAU presente)"
+
+msgid "X-Server logfile"
+msgstr "File registro server X"
+
+#: yavdrweb-ng/static/javascripts/component/system/diagnose_xbmc.js
+msgid "XBMC crash log"
+msgstr "Registro blocchi XBMC"
+
+#: yavdrweb-ng/static/javascripts/component/system/diagnose_yavdr.js
+msgid "yaVDR database"
+msgstr "Database yaVDR"
+
+msgid "yaVDR DB"
+msgstr "DB yaVDR"
+
+#: yavdrweb-ng/static/javascripts/component/dashboard.js
+msgid "VDR"
+msgstr "VDR"
+
+msgid "Recordings"
+msgstr "Registrazioni"
+
+msgid "Duration"
+msgstr "Durata"
+
+msgid "Timers"
+msgstr "Timer"
+
+msgid "Start"
+msgstr "Inizio"
+
+#: yavdrweb-ng/static/javascripts/component/programm.js
+msgid "Schedule"
+msgstr "Programmi"
+
+#: yavdrweb-ng/static/javascripts/component/recordings.js
+#: yavdrweb-ng/static/javascripts/component/settings.js
+msgid "Here you can configure your VDR and applications around it."
+msgstr "Qui puoi configurare VDR e le applicazioni correlate."
+
+msgid "Hardware"
+msgstr "Hardware"
+
+msgid "Remote control"
+msgstr "Telecomando"
+
+msgid "Audi"
+msgstr "Audio"
+
+msgid "Edit configurations"
+msgstr "Modifica configurazioni"
+
+msgid "Packages"
+msgstr "Pacchetti"
+
+#: yavdrweb-ng/static/javascripts/component/system.js
+msgid "Here you can monitor your system. You can look into log files and send them to pastebin to let others review them."
+msgstr "Qui puoi configurare il sistema. Puoi controllare i file di log ed inviarli a Pastebin per consentire ad altri di revisionarli."
+
+msgid "\"Execute command...\""
+msgstr "\"Esegui comando...\""
+
+msgid "The command has been executed successfully"
+msgstr "Il comando è stato eseguito con successo."
+
+msgid "The command could not complete successfully"
+msgstr "Impossibile eseguire correttamente il comando"
+
+msgid "Switch temporarily to second screen"
+msgstr "Passa temporaneamente al secondo schermo"
+
+msgid "Reboot computer"
+msgstr "Riavvia computer"
+
+msgid "Kill XBMC"
+msgstr "Termina XBMC"
+
+msgid "Sound (ALSA)"
+msgstr "Suono (ALSA)"
+
+msgid "System log files"
+msgstr "Registro di sistema"
+
+msgid "Xorg server"
+msgstr "Server Xorg"
+
+msgid "LIRC configuration"
+msgstr "Configurazione LIRC"
+
+msgid "VDR configuration"
+msgstr "Configurazione VDR"
+
+#: yavdrweb-ng/static/javascripts/base.js
+msgid "Dashboard"
+msgstr "Bacheca"
+
+msgid "Program"
+msgstr "Programma"
+
+msgid "Saving"
+msgstr "Salvataggio"
+
+msgid "Cancel"
+msgstr "Annulla"
+
+msgid "Error while saving data."
+msgstr "Errore salvataggio dati."
+
+msgid "Data stored successfully."
+msgstr "Dati salvati con successo."
+
+#: yavdrweb-ng/static/javascripts/component.js
+msgid "Introduction"
+msgstr "Introduzione"
+
+#: yavdrweb-ng/static/javascripts/dpkg.js
+msgid "Close"
+msgstr "Chiudi"
+
+msgid "Install package?"
+msgstr "Installare pacchetto?"
+
+msgid "Would you like to install package \"%s\"?"
+msgstr "Vuoi installare il pacchetto \"%s\"?"
+
+msgid "Would you like to remove package \"%s\"?"
+msgstr "Vuoi rimuovere il pacchetto \"%s\"?"
+
+msgid "Would you like to enable \"%s\"?"
+msgstr "Vuoi abilitare \"%s\"?"
+
+msgid "fatal error: disable plugin failed"
+msgstr "errore fatale: impossibile disabilitare il plugin"
+
+msgid "Disable plugin?"
+msgstr "Disabilitare plugin?"
+
+msgid "Would you like to disable \"%s\"?"
+msgstr "Vuoi disabilitare \"%s\"?"
+
+#: yavdrweb-ng/static/javascripts/pastebin.js
+msgid "Title (optional)"
+msgstr "Titolo (opzionale)"
+
+msgid "Email (optional)"
+msgstr "Email (opzionale)"
+
+msgid "Content"
+msgstr "Contenuto"
+
+msgid "Send"
+msgstr "Invia"
+
+#: hw_sundtek.js
+msgid "You can configure your sundtek DVB hardware here."
+msgstr "Qui puoi configurare la scheda DVB Sundtek"
+
+msgid "Sundtek"
+msgstr "Sundtek"
+
+msgid "unchanged"
+msgstr "non modificata"
+
+msgid "DVB-T"
+msgstr "DVB-T"
+
+msgid "DVB-C"
+msgstr "DVB-C"
+
+msgid "Rescan Sundtek"
+msgstr "Rileva Sundtek"
+
+msgid "DVB-Mode"
+msgstr "Modalità DVB"
+
+msgid "mount device"
+msgstr "monta dispositivo"
+
+msgid "mounted"
+msgstr "montato"
+
+msgid "remove this configuration"
+msgstr "rimuovi questa configurazione"
+
+msgid "Do you realy want to remove this configration:"
+msgstr "Vuoi veramente rimuovere questa configurazione:"
+
+msgid " (local)"
+msgstr " (locale)"
+
+msgid "Network-Support"
+msgstr "Supporto di rete"
+
+msgid "allows devices to be mounted remotely"
+msgstr "permetti ai dispositivi di essere montati in remoto"
+
+msgid "Rescan for sundtek devices."
+msgstr "Rileva dispositivi Sundtek."
+
+msgid "Do not change frontend settings"
+msgstr "Non cambiare impostazioni interfaccia"
+
+msgid "Language"
+msgstr "Lingua"
+
+msgid "yes"
+msgstr "sì"
+
+msgid "no"
+msgstr "no"
+
+msgid "Set XBMC defaults"
+msgstr "Imposta valori predefiniti XBMC"
+
+msgid "enabled"
+msgstr "abilitato"
+
+msgid "Edit"
+msgstr "Modifica"
+
+msgid "unknown"
+msgstr "sconosciuto"
+
+msgid "Y-m-d H:i"
+msgstr "Y-m-d H:i"
+
+msgid "H:i"
+msgstr "H:i"
+
