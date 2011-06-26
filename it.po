@@ -867,3 +867,6 @@ msgstr "Y-m-d H:i"
 msgid "H:i"
 msgstr "H:i"
 
+msgid "Remove marks"
+msgstr ""
+

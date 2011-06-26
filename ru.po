@@ -829,3 +829,7 @@ msgstr ""
 
 msgid "H:i"
 msgstr ""
+
+msgid "Remove marks"
+msgstr ""
+

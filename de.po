@@ -832,3 +832,6 @@ msgstr "d.m.Y H:i"
 
 msgid "H:i"
 msgstr "H:i"
+
+msgid "Remove marks"
+msgstr "Schnittmarken entfernen"

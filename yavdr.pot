@@ -891,4 +891,7 @@ msgstr ""
 msgid "H:i"
 msgstr ""
 
+msgid "Remove marks"
+msgstr ""
+
 #: end web front end
