@@ -1,0 +1,864 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: yavdr-i18n\n"
+"Report-Msgid-Bugs-To: <see README>\n"
+"POT-Creation-Date: 2011-04-14 17:02+0100\n"
+"PO-Revision-Date: 2011-07-31 14:27+0100\n"
+"Last-Translator: Radek Stastny <dedkus@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-Country: CZECH REPUBLIC\n"
+
+msgid "Timer"
+msgstr "Nahrávání"
+
+msgid "Applications"
+msgstr "Aplikace"
+
+msgid "Web"
+msgstr "Web"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Media"
+msgstr "Média"
+
+msgid "XBMC on graphtft Display"
+msgstr "XBMC na displaji graphtft"
+
+msgid "Games"
+msgstr "Hry"
+
+msgid "Tools"
+msgstr "Nástroje"
+
+msgid "Xterm"
+msgstr "Xterm"
+
+msgid "Commands"
+msgstr "Příkazy"
+
+msgid "Safely remove usb mass storage"
+msgstr "Odpojit USB disky"
+
+msgid "Update vdr recordings list"
+msgstr "Aktualizovat seznam nahrávek"
+
+msgid "Restart VDR"
+msgstr "Restartovat VDR"
+
+msgid "Reboot system"
+msgstr "Restartovat systém"
+
+msgid "Shutdown system"
+msgstr "Vypnout systém"
+
+#: begin yavdr-addons
+msgid "CD-Ripper Asunder"
+msgstr "CD-Ripper Asunder"
+
+msgid "Chromium 2D-Shooter"
+msgstr "Chromium 2D-Shooter"
+
+msgid "Mail"
+msgstr "Mail"
+
+msgid "DVD-Rip"
+msgstr "DVD-Rip"
+
+msgid "M.A.M.E"
+msgstr "M.A.M.E"
+
+msgid "ARD"
+msgstr "ARD"
+
+msgid "ZDF"
+msgstr "ZDF"
+
+msgid "DMAX"
+msgstr "DMAX"
+
+msgid "Golem-Video"
+msgstr "Golem-Video"
+
+msgid "SAT1"
+msgstr "SAT1"
+
+msgid "Gametrailers"
+msgstr "Gametrailers"
+
+msgid "Performous"
+msgstr "Performous"
+
+msgid "Pidgin"
+msgstr "Pidgin"
+
+msgid "PIP on/off"
+msgstr "PIP zap/vyp"
+
+msgid "PIP swap"
+msgstr "PIP vyměnit"
+
+msgid "PIP"
+msgstr "PIP"
+
+msgid "Semsix"
+msgstr "Semsix"
+
+msgid "Simfy"
+msgstr "Simfy"
+
+msgid "Skype"
+msgstr "Skype"
+
+msgid "SuperTuxKart"
+msgstr "SuperTuxKart"
+
+msgid "Thunderbird-Mail"
+msgstr "Thunderbird-Mail"
+
+msgid "Extreme Tuxracer"
+msgstr "Extreme Tuxracer"
+
+msgid "TV-Browser"
+msgstr "TV-Browser"
+
+msgid "VLC-Media-Player"
+msgstr "VLC přehrávač"
+
+msgid "Wormux"
+msgstr "Wormux"
+
+msgid "You-Tube"
+msgstr "You-Tube"
+
+msgid "Helix"
+msgstr "Helix"
+
+#: begin avahi-mounter
+msgid "Recording"
+msgstr "Nahrávky"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Music"
+msgstr "Hudba"
+
+msgid "Picture"
+msgstr "Obrázky"
+
+msgid "Miscellaneous"
+msgstr "Různé"
+
+#: end avahi-mounter begin web front end yavdrweb-ng/static/javascripts/component/settings/hw_audio.js
+msgid "Please select the audio output. Make your choice and press \"Save\". At saving VDR and the video output will be restarted in order to make your choice activ."
+msgstr "Vyberte audio výstup. Zvolte vybraný výstup a stiskněte \"Uložit\". Po uložení bude VDR a audio výstup restartováno."
+
+msgid "Audio"
+msgstr "Zvuk"
+
+msgid "Output to all devices"
+msgstr "Všechna zařízení"
+
+msgid "Analog"
+msgstr "Analogový"
+
+msgid "Audio output will happen through the speaker/headphone plug"
+msgstr "Analogový výstup skrz konektory reproduktorů/sluchátek"
+
+msgid "Digital (Toslink/SPDIF)"
+msgstr "Digitální (Toslink/SPDIF)"
+
+msgid "Audio output will happen through Toslink/SPDIF."
+msgstr "Digitální audio výstup pomocí Toslink/SPDIF"
+
+msgid "HDMI-Stereo"
+msgstr "HDMI Stereo"
+
+msgid "Audio output will happen through HDMI in PCM. This variant does a downmix for HDMI devices which only can handle stereo (i.e. tv sets)."
+msgstr "Stereo audio výstup do HDMI v PCM formátu."
+
+msgid "HDMI-Passthrough"
+msgstr "HDMI bez úprav"
+
+msgid "Audio output will happen through HDMI with Pass Through."
+msgstr "Audio data budou předána do HDMI bez úprav."
+
+msgid "Audio output"
+msgstr "Zvukový výstup"
+
+#: yavdrweb-ng/static/javascripts/component/settings/hw_display.js
+msgid "Here you can configure your display settings."
+msgstr "Zde můžete upravit nastavení zobrazení."
+
+msgid "Display"
+msgstr "Video"
+
+msgid "Rescan displays"
+msgstr "Detekovat obrazovky"
+
+msgid "Refresh rate"
+msgstr "Obnovovací frekvence"
+
+msgid "Device"
+msgstr "Zařízení"
+
+msgid "Primary"
+msgstr "Primární"
+
+msgid "Secondary"
+msgstr "Sekundární"
+
+msgid "Select resolution"
+msgstr "Vyberte rozlišení"
+
+msgid "Resolution"
+msgstr "Rozlišení"
+
+msgid "Nvidia overscan compensation"
+msgstr "Nvidia kompenzace overscanu"
+
+msgid "Basic"
+msgstr "Základní"
+
+msgid "Dual-Head Mode"
+msgstr "Dual-Head režim"
+
+msgid "GraphTFT"
+msgstr "GraphTFT"
+
+msgid "Xine"
+msgstr "Xine"
+
+msgid "Xine HD deinterlacer"
+msgstr "odstranění prokládaní Xine HD"
+
+msgid "default"
+msgstr "výchozí"
+
+msgid "Xine SD deinterlacer"
+msgstr "odstranění prokládaní Xine SD"
+
+msgid "disabled (less than 2 displays found)"
+msgstr "vypnuto (detekován pouze 1 display)"
+
+msgid "Rescan display. Displays may flicker."
+msgstr "Detekce obrazovek. Obraz může blikat."
+
+msgid "Rescan display failed."
+msgstr "Detekce obrazovek selhala."
+
+msgid "Default frequency"
+msgstr "Výchozí frekvence"
+
+msgid "rate"
+msgstr "."
+
+#: yavdrweb-ng/static/javascripts/component/settings/hw_remote.js
+msgid "Settings"
+msgstr "Nastavení"
+
+msgid "Here you can configure your remote hardware. The default and most common choice is EventLircd."
+msgstr "Nastavení dálkového ovládaní. Výchozí a nejčasteji používaná je volba EventLircd."
+
+msgid "EventLircd"
+msgstr "EventLircd"
+
+msgid "LIRC"
+msgstr "LIRC"
+
+msgid "Driver"
+msgstr "Ovladač"
+
+msgid "LIRC driver"
+msgstr "LIRC ovladač"
+
+msgid "HW-Default"
+msgstr "HW výchozí"
+
+msgid "Lircd-Conf"
+msgstr "Lircd-Conf"
+
+msgid "Receiver"
+msgstr "Přijímač"
+
+msgid "Serial port"
+msgstr "Sériový port"
+
+msgid "Activate LIRC"
+msgstr "Aktivace LIRC"
+
+msgid "Activate EventLircd"
+msgstr "Aktivace EventLircd"
+
+#: yavdrweb-ng/static/javascripts/component/settings/system_config_editor.js
+msgid "Choose a file:"
+msgstr "Vyberte soubor:"
+
+msgid "Save"
+msgstr "Uložit"
+
+msgid "System"
+msgstr "Systém"
+
+msgid "Reload"
+msgstr "Obnov"
+
+msgid "Mark content"
+msgstr "Označit obsah"
+
+msgid "Send to PasteBin"
+msgstr "Odeslat na PasteBin"
+
+msgid "Please wait..."
+msgstr "Čekejte prosím..."
+
+#: yavdrweb-ng/static/javascripts/component/settings/system_generic.js
+msgid "General system settings are made here."
+msgstr "Základní nastavení systému."
+
+msgid "Webfrontend language"
+msgstr "Jazyk web rozhraní"
+
+msgid "Shutdown and wakeup"
+msgstr "Vypnutí a probuzení"
+
+msgid "Grub"
+msgstr "Grub"
+
+msgid "Choose timeout in seconds:"
+msgstr "Zvolte prodlevu v sekundách:"
+
+msgid "\"The maximum is 10.\""
+msgstr "\"Maximum 10.\""
+
+msgid "\"The minimum is 0.\""
+msgstr "\"Minimum 0.\""
+
+msgid "\"Language\""
+msgstr "\"Jazyk\""
+
+msgid "Suspend to RAM"
+msgstr "Uspání do paměti (Suspend to RAM)"
+
+msgid "Switches the computer into energy saving mode. Only RAM will be supplied with Power."
+msgstr "Přepne počítač do úsporného režimu. Napájí se pouze paměť."
+
+msgid "Fake suspend to disk"
+msgstr "Falešné uspání na disk (Fake suspend to disk)"
+
+msgid "Alternative for Suspend to RAM. This can be used as a fallback for some problematic devices"
+msgstr "Alternativa k uspání do paměti. Náhradní řešení pro některá problémová zařízení."
+
+msgid "Shutdown"
+msgstr "Vypnutí"
+
+msgid "This is the classical shutdown."
+msgstr "Normální vypnutí."
+
+msgid "reboot PowerOff-kernel"
+msgstr "restartovat a vypnout (reboot PowerOff-kernel)"
+
+msgid "Some Hardware needs the PowerOff kernel in order to be able to shut down. Use this if you have this problem."
+msgstr "Některý hardware vyžaduje restartovat do PowerOff jádra a pak teprve se vypne. "
+
+msgid "Without timer wakeup."
+msgstr "Žádné plánované zapínání."
+
+msgid "ACPI timer wakeup. YaVDR default setting."
+msgstr "ACPI zapínání. Výchozí nastavení."
+
+msgid "You need a special nvram configuration to use it."
+msgstr "Je nutné nastavit konfiguraci nvram."
+
+msgid "Shutdown method"
+msgstr "Způsob vypnutí"
+
+msgid "Wakeup method"
+msgstr "Způsob plánovaného zapnutí"
+
+msgid "Disable USB-wakeup"
+msgstr "Zakázat zapnutí pomocí USB"
+
+msgid "Deactivate USB-wakeup, for incompatible hardware"
+msgstr "Vypne zapínání pomocí USB, kvůli nekompaktibilnímu zařízení "
+
+#: yavdrweb-ng/static/javascripts/component/settings/system_network.js
+msgid "Network"
+msgstr "Síť"
+
+msgid "You can define Host and shares which should be mounted automatically. You need to key in the shares using \"host:/path/to/the/share\"."
+msgstr "Můžete definovat vzdálené složky, které budou automaticky připojeny. Je třeba je zadat ve formátu \"host:/sdilena/cesta\" "
+
+msgid "Add"
+msgstr "Přidat"
+
+msgid "Delete"
+msgstr "Smazat"
+
+msgid "The name is missing"
+msgstr "Jmeno chybí"
+
+#: yavdrweb-ng/static/javascripts/component/settings/system_packages.js
+msgid "load new information from internet"
+msgstr "stáhnout nové údaje z internetu"
+
+msgid "remove unneeded packages"
+msgstr "odstraní nepotřebné balíčky"
+
+msgid "clears out the local repository of retrieved package file"
+msgstr "smaže lokální kopie stažených balíčků"
+
+msgid "Install"
+msgstr "Instalovat"
+
+msgid "Remove"
+msgstr "Odinstalovat"
+
+msgid "Activate"
+msgstr "Aktivovat"
+
+msgid "Deactivate"
+msgstr "Deaktivovat"
+
+msgid "Package"
+msgstr "Balík"
+
+msgid "Maintainer"
+msgstr "Správce"
+
+msgid "Description"
+msgstr "Popis"
+
+msgid "Please select a package to see additional details."
+msgstr "Vyberte balíček pro zobrazení podrobností."
+
+msgid "Version"
+msgstr "Verze"
+
+#: yavdrweb-ng/static/javascripts/component/settings/vdr_channels.js
+msgid "Name of the group"
+msgstr "Jméno skupiny"
+
+msgid "Name"
+msgstr "Jméno"
+
+msgid "Next channel no."
+msgstr "Další č. kanálu"
+
+msgid "\"ChannelsReader.read: Channels not available\""
+msgstr "\"ChannelsReader.read: Kanály nejsou dostupné\""
+
+msgid "Channels saved"
+msgstr "Kanály uloženy"
+
+msgid "generated channels.conf"
+msgstr "vygenerovaný channels.conf"
+
+msgid "Channels"
+msgstr "Kanály"
+
+msgid "Clipboard"
+msgstr "Schránka"
+
+msgid "Move into channels.conf"
+msgstr "Přesunout do channels.conf"
+
+msgid "Add new group"
+msgstr "Nová skupina"
+
+msgid "Please enter the group name:"
+msgstr "Zadejte jméno skupiny"
+
+msgid "Display channels.conf"
+msgstr "Zobrazit channels.conf"
+
+msgid "\"Channel\""
+msgstr "\"Kanál\""
+
+msgid "\"Name\""
+msgstr "\"Jméno\""
+
+msgid "\"Provider\""
+msgstr "\"Poskytovatel\""
+
+msgid "\"loading channels\""
+msgstr "\"nahrávám kanály\""
+
+msgid "Move into clipboard"
+msgstr "Přesunout do schránky"
+
+msgid "On top"
+msgstr "Na začátek"
+
+msgid "At bottom"
+msgstr "Na konec"
+
+msgid "Insert clipboard"
+msgstr "Vložit schránku"
+
+msgid "Above %s"
+msgstr "Nad %s"
+
+msgid "Below %s"
+msgstr "Pod %s"
+
+msgid "Delete \"%s\""
+msgstr "Smazat \"%s\""
+
+msgid "Delete selection"
+msgstr "Smazat vybrané"
+
+#: yavdrweb-ng/static/javascripts/component/settings/vdr_generic.js
+msgid "Here you can make general setting for and around VDR."
+msgstr "Základní nastavení VDR."
+
+msgid "General"
+msgstr "Základní"
+
+msgid "Lifeguard monitoring items"
+msgstr "Lifeguard monitorované programy"
+
+msgid "EPG"
+msgstr "EPG"
+
+msgid "Lifeguard"
+msgstr "Lifeguard"
+
+msgid "VDR-Lifeguard will check the choosen items before allowing the shutdown. Please choose the items which should not be interrupted by a shutdown. Not checked means it will not block the shutdown."
+msgstr "VDR-Lifeguard kontroluje vybrané položky před vypnutím systému. Vybrané položky zabrání vypnutí systému. Nevybrané položky vypnutí neblokují."
+
+msgid "This choice is using the xineliboutput plugin with frontend vdr-sxfe."
+msgstr "Tato volba použije plugin xineliboutput a klient vdr-sxfe."
+
+msgid "This is an alternative frontend. It is using the xine plugin using Xine for decoding."
+msgstr "Alternativní výstup, použije xine plugin a klient Xine"
+
+msgid "If you want to use VDR as backend for XBMC and watch TV only in XBMC this is your choice."
+msgstr "Pokud je VDR na straně serveru a klientem je výhradně XBMC, je toto správná volba."
+
+msgid "You can choose this if you don't want to have any video output. This is if you want to use yavdr as server, or disable any decoding on video cards."
+msgstr "Vyberte tuto volbu, pokud nechcete žádný video výstup. Může být, když chcese použít yavdr jako server, nebo vypnout dekodování na video kartách."
+
+msgid "If you want to use VDR with a TT-premium S2-6400 HD."
+msgstr "Pokud chcete použít VDR s TT-premium S2-6400 HD."
+
+msgid "Video Output"
+msgstr "Video výstup"
+
+msgid "Override incorrect not DVB compliant EPG Encoding, as send by Sky"
+msgstr "Přepsat chybné DVB nekompatibilní EPG kódování Sky"
+
+msgid "Charset override"
+msgstr "Přepsání kódování"
+
+#: yavdrweb-ng/static/javascripts/component/system/diagnose.js
+msgid "Diagnostics"
+msgstr "Diagnostika"
+
+msgid "Refresh"
+msgstr "Onovit"
+
+msgid "Go to the end"
+msgstr "Přejít na konec"
+
+#: yavdrweb-ng/static/javascripts/component/system/diagnose_alsa.js
+msgid "ALSA status information"
+msgstr "ALSA status"
+
+msgid "ALSA device list"
+msgstr "ALSA zařízení"
+
+msgid "ALSA custom sound configuration"
+msgstr "ALSA uživatelská konfigurace"
+
+#: yavdrweb-ng/static/javascripts/component/system/diagnose_dpkg.js
+msgid "Package information"
+msgstr "Informace o balíčcích"
+
+msgid "Installed packages (VDR, VDR-Plugins, VDR-Addons, XBMC, yavdr)"
+msgstr "Instalované balíčky (VDR, VDR-Plugins, VDR-Addons, XBMC, yavdr)"
+
+msgid "Apt history of recently installed packages"
+msgstr "Apt historie nedávno instalovaných balíčků"
+
+#: yavdrweb-ng/static/javascripts/component/system/diagnose_lirc.js
+msgid "LIRC hardware configuration"
+msgstr "LIRC konfigurace hardware"
+
+msgid "LIRCD configuration"
+msgstr "LIRCD konfigurace"
+
+#: yavdrweb-ng/static/javascripts/component/system/diagnose_system_information.js
+msgid "System information"
+msgstr "Systémové informace"
+
+msgid "System load"
+msgstr "Zatížení systému"
+
+msgid "Network status"
+msgstr "Stav sítě"
+
+msgid "Filesystem usage"
+msgstr "Využití disků"
+
+msgid "Kernel log"
+msgstr "Kernel log"
+
+#: yavdrweb-ng/static/javascripts/component/system/diagnose_system_logs.js
+msgid "Webserver logfile"
+msgstr "Webserver log soubor"
+
+#: yavdrweb-ng/static/javascripts/component/system/diagnose_vdr.js
+msgid "VDR basic configuration"
+msgstr "VDR základní nastavení"
+
+msgid "VDR setup.conf"
+msgstr "VDR setup.conf"
+
+msgid "VDR remote.conf"
+msgstr "VDR remote.conf"
+
+#: yavdrweb-ng/static/javascripts/component/system/diagnose_x11.js
+msgid "Xorg server log"
+msgstr "Xorg server log"
+
+msgid "X-Server configuration (only if NVIDIA VDPAU present)"
+msgstr "konfigurace X-Serveru (jen pokud je dostupné NVIDIA VDPAU)"
+
+msgid "X-Server logfile"
+msgstr "X-Server log soubor"
+
+#: yavdrweb-ng/static/javascripts/component/system/diagnose_xbmc.js
+msgid "XBMC crash log"
+msgstr "XBMC chybový log"
+
+#: yavdrweb-ng/static/javascripts/component/system/diagnose_yavdr.js
+msgid "yaVDR database"
+msgstr "yaVDR databáza"
+
+msgid "yaVDR DB"
+msgstr "yaVDR DB"
+
+#: yavdrweb-ng/static/javascripts/component/dashboard.js
+msgid "VDR"
+msgstr "VDR"
+
+msgid "Recordings"
+msgstr "Nahrávky"
+
+msgid "Duration"
+msgstr "Délka"
+
+msgid "Timers"
+msgstr "Nahrávání"
+
+msgid "Start"
+msgstr "Začátek"
+
+#: yavdrweb-ng/static/javascripts/component/programm.js
+msgid "Schedule"
+msgstr "Program"
+
+#: yavdrweb-ng/static/javascripts/component/recordings.js
+#: yavdrweb-ng/static/javascripts/component/settings.js
+msgid "Here you can configure your VDR and applications around it."
+msgstr "Konfigurace VDR a aplikací."
+
+msgid "Hardware"
+msgstr "Hardware"
+
+msgid "Remote control"
+msgstr "Dálkové ovládání"
+
+msgid "Audi"
+msgstr "Audi"
+
+msgid "Edit configurations"
+msgstr "Úpravy nastavení"
+
+msgid "Packages"
+msgstr "Balíčky"
+
+#: yavdrweb-ng/static/javascripts/component/system.js
+msgid "Here you can monitor your system. You can look into log files and send them to pastebin to let others review them."
+msgstr "Zde je možný monitoring systému, prohlížení log souborů a jejich odeslání na PasteBin pro kontrolu ostatními uživateli."
+
+msgid "\"Execute command...\""
+msgstr "\"Provádím příkaz...\""
+
+msgid "The command has been executed successfully"
+msgstr "Příkaz byl vykonán úspěšně"
+
+msgid "The command could not complete successfully"
+msgstr "Příkaz selhal"
+
+msgid "Switch temporarily to second screen"
+msgstr "Přepnout dočasně na druhou obrazovku"
+
+msgid "Reboot computer"
+msgstr "Restartovat počítač"
+
+msgid "Kill XBMC"
+msgstr "Zabít XBMC"
+
+msgid "Sound (ALSA)"
+msgstr "Zvuk (ALSA)"
+
+msgid "System log files"
+msgstr "Systémové log soubory"
+
+msgid "Xorg server"
+msgstr "Xorg server"
+
+msgid "LIRC configuration"
+msgstr "LIRC nastavení"
+
+msgid "VDR configuration"
+msgstr "VDR nastavení"
+
+#: yavdrweb-ng/static/javascripts/base.js
+msgid "Dashboard"
+msgstr "Hlavní panel"
+
+msgid "Program"
+msgstr "Program"
+
+msgid "Saving"
+msgstr "Ukládání"
+
+msgid "Cancel"
+msgstr "Zrušit"
+
+msgid "Error while saving data."
+msgstr "Chyba při ukládání."
+
+msgid "Data stored successfully."
+msgstr "Uloženo."
+
+#: yavdrweb-ng/static/javascripts/component.js
+msgid "Introduction"
+msgstr "Úvod"
+
+#: yavdrweb-ng/static/javascripts/dpkg.js
+msgid "Close"
+msgstr "Zavřít"
+
+msgid "Install package?"
+msgstr "Instalovat balíček?"
+
+msgid "Would you like to install package \"%s\"?"
+msgstr "Chcete instalovat balíček \"%s\"?"
+
+msgid "Would you like to remove package \"%s\"?"
+msgstr "Chcete odebrat balíček \"%s\"?"
+
+msgid "Would you like to enable \"%s\"?"
+msgstr "Chcete povolit \"%s\"?"
+
+msgid "fatal error: disable plugin failed"
+msgstr "závažná chyba: selhalo vypnutí pluginu"
+
+msgid "Disable plugin?"
+msgstr "Vypnout plugin?"
+
+msgid "Would you like to disable \"%s\"?"
+msgstr "Chcete zakázat \"%s\"?"
+
+#: yavdrweb-ng/static/javascripts/pastebin.js
+msgid "Title (optional)"
+msgstr "Název (nepovinný)"
+
+msgid "Email (optional)"
+msgstr "e-mail (nepovinný)"
+
+msgid "Content"
+msgstr "Obsah"
+
+msgid "Send"
+msgstr "Odeslat"
+
+#: hw_sundtek.js
+msgid "You can configure your sundtek DVB hardware here."
+msgstr "Zde lze nastavit Sundtek zařízení"
+
+msgid "Sundtek"
+msgstr "Sundtek"
+
+msgid "unchanged"
+msgstr "beze změny"
+
+msgid "DVB-T"
+msgstr "DVB-T"
+
+msgid "DVB-C"
+msgstr "DVB-C"
+
+msgid "Rescan Sundtek"
+msgstr "Detekovat Sundtek"
+
+msgid "DVB-Mode"
+msgstr "DVB režim"
+
+msgid "mount device"
+msgstr "připojit zařízení"
+
+msgid "mounted"
+msgstr "mounted"
+
+msgid "remove this configuration"
+msgstr "odstranit toto nastavení"
+
+msgid "Do you realy want to remove this configration:"
+msgstr "Opravdu chcete odstranit toto nastavení?"
+
+msgid " (local)"
+msgstr " (local)"
+
+msgid "Network-Support"
+msgstr "Network-Support"
+
+msgid "allows devices to be mounted remotely"
+msgstr "umožňuje vzdálené připojení"
+
+msgid "Rescan for sundtek devices."
+msgstr "Detekuji zařízení Sundtek."
+
+msgid "Do not change frontend settings"
+msgstr "Neměnit nastavení výstupu"
+
+msgid "Language"
+msgstr "Jazyk"
+
+msgid "yes"
+msgstr "ano"
+
+msgid "no"
+msgstr "ne"
+
+msgid "Set XBMC defaults"
+msgstr "XBMC výchozí nastavení"
+
+msgid "enabled"
+msgstr "povoleno"
+
+msgid "Edit"
+msgstr "Změna"
+
+msgid "unknown"
+msgstr "neznámý"
+
+msgid "Y-m-d H:i"
+msgstr "d.m.Y H:i"
+
+msgid "H:i"
+msgstr "H:i"
+
+msgid "Remove marks"
+msgstr "Odstranění značek"
+
