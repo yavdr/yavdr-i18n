@@ -547,6 +547,18 @@ msgstr "Přepsat chybné DVB nekompatibilní EPG kódování Sky"
 msgid "Charset override"
 msgstr "Přepsání kódování"
 
+#, fuzzy
+msgid "Append \"%s\" to channels.conf"
+msgstr "Přesunout do channels.conf"
+
+#, fuzzy
+msgid "Append checked channels to channels.conf"
+msgstr "vygenerovaný channels.conf"
+
+#, fuzzy
+msgid "Adding channels to channels.conf"
+msgstr "Přesunout do channels.conf"
+
 msgid "Diagnostics"
 msgstr "Diagnostika"
 

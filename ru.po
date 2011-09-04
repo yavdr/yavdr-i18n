@@ -548,6 +548,18 @@ msgstr "Переопределение некорректно т. к. не DVB �
 msgid "Charset override"
 msgstr "Определение набора символов"
 
+#, fuzzy
+msgid "Append \"%s\" to channels.conf"
+msgstr "Переместить в channels.conf"
+
+#, fuzzy
+msgid "Append checked channels to channels.conf"
+msgstr "генерируется channels.conf"
+
+#, fuzzy
+msgid "Adding channels to channels.conf"
+msgstr "Переместить в channels.conf"
+
 msgid "Diagnostics"
 msgstr "Диагностика"
 

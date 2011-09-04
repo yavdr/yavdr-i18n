@@ -545,6 +545,18 @@ msgstr "Perrašyti neteisingus su DVB standartu nesuderinamus EPG kodavimus, kai
 msgid "Charset override"
 msgstr "Kodavimo perrašymas"
 
+#, fuzzy
+msgid "Append \"%s\" to channels.conf"
+msgstr "Pereiti į channels.conf"
+
+#, fuzzy
+msgid "Append checked channels to channels.conf"
+msgstr "sugeneruotas channels.conf"
+
+#, fuzzy
+msgid "Adding channels to channels.conf"
+msgstr "Pereiti į channels.conf"
+
 msgid "Diagnostics"
 msgstr "Diagnostika"
 

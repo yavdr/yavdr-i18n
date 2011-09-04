@@ -554,6 +554,15 @@ msgstr "Überschreibt die falsche, nicht DVB-Konforme EPG-Kodierung, wie z.B die
 msgid "Charset override"
 msgstr "Zeichensatz überschreiben"
 
+msgid "Append \"%s\" to channels.conf"
+msgstr "\"%s\" an die Kanalliste anhängen"
+
+msgid "Append checked channels to channels.conf"
+msgstr "ausgewählte Kanäle an die Kanalliste anhängen"
+
+msgid "Adding channels to channels.conf"
+msgstr "Kanal an die Kanalliste anhängen"
+
 msgid "Diagnostics"
 msgstr "Diagnostik"
 

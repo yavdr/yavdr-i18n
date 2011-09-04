@@ -546,6 +546,15 @@ msgstr ""
 msgid "Charset override"
 msgstr ""
 
+msgid "Append \"%s\" to channels.conf"
+msgstr ""
+
+msgid "Append checked channels to channels.conf"
+msgstr ""
+
+msgid "Adding channels to channels.conf"
+msgstr ""
+
 msgid "Diagnostics"
 msgstr ""
 

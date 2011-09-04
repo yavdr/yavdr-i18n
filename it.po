@@ -554,6 +554,18 @@ msgstr "Ignora codifica EPG incorretta e non compatibile con DVB, come quella di
 msgid "Charset override"
 msgstr "Ignora caratteri"
 
+#, fuzzy
+msgid "Append \"%s\" to channels.conf"
+msgstr "Copia nel file channels.conf"
+
+#, fuzzy
+msgid "Append checked channels to channels.conf"
+msgstr "file channels.conf generato"
+
+#, fuzzy
+msgid "Adding channels to channels.conf"
+msgstr "Copia nel file channels.conf"
+
 msgid "Diagnostics"
 msgstr "Diagnostica"
 
