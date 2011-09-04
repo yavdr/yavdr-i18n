@@ -15,28 +15,8 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-msgid "Recording"
-msgstr "Aufnahmen"
-
-msgid "Music"
-msgstr "Musik"
-
-msgid "Picture"
-msgstr "Bilder"
-
-msgid "Miscellaneous"
-msgstr "Sonstiges"
-
 msgid "Timer"
 msgstr "Timer"
-
-msgid "Video"
-msgstr "Video"
 
 msgid "Applications"
 msgstr "Applikationen"
@@ -80,11 +60,112 @@ msgstr "Rechner neu starten"
 msgid "Shutdown system"
 msgstr "System herunterfahren"
 
+msgid "CD-Ripper Asunder"
+msgstr "CD-Ripper Asunder"
+
+msgid "Chromium 2D-Shooter"
+msgstr "Chromium 2D-Shooter"
+
+msgid "Mail"
+msgstr "Mail"
+
+msgid "DVD-Rip"
+msgstr "DVD-Rip"
+
+msgid "M.A.M.E"
+msgstr "M.A.M.E"
+
+msgid "ARD"
+msgstr "ARD"
+
+msgid "ZDF"
+msgstr "ZDF"
+
+msgid "DMAX"
+msgstr "DMAX"
+
+msgid "Golem-Video"
+msgstr "Golem-Video"
+
+msgid "SAT1"
+msgstr "SAT1"
+
+msgid "Gametrailers"
+msgstr "Gametrailers"
+
+msgid "Performous"
+msgstr "Performous"
+
+msgid "Pidgin"
+msgstr "Pidgin"
+
+msgid "PIP on/off"
+msgstr "PIP an/aus"
+
+msgid "PIP swap"
+msgstr "PIP tausch"
+
+msgid "PIP"
+msgstr "PIP"
+
+msgid "Semsix"
+msgstr "Semsix"
+
+msgid "Simfy"
+msgstr "Simfy"
+
+msgid "Skype"
+msgstr "Skype"
+
+msgid "SuperTuxKart"
+msgstr "SuperTuxKart"
+
+msgid "Thunderbird-Mail"
+msgstr "Thunderbird-Mail"
+
+msgid "Extreme Tuxracer"
+msgstr "Extreme Tuxracer"
+
+msgid "TV-Browser"
+msgstr "TV-Browser"
+
+msgid "VLC-Media-Player"
+msgstr "VLC-Media-Player"
+
+msgid "Wormux"
+msgstr "Wormux"
+
+msgid "You-Tube"
+msgstr "You-Tube"
+
+msgid "Helix"
+msgstr "Helix"
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid "Recording"
+msgstr "Aufnahmen"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Music"
+msgstr "Musik"
+
+msgid "Picture"
+msgstr "Bilder"
+
+msgid "Miscellaneous"
+msgstr "Sonstiges"
+
 msgid "Please select the audio output. Make your choice and press \"Save\". At saving VDR and the video output will be restarted in order to make your choice activ."
 msgstr "Bitte wählen Sie hier die Audioausgabe und drücken sie \"Speichern\". Nach dem Speichern wird VDR neugestartet um die Auswahl zu aktivieren."
 
-msgid "Audio Settings"
-msgstr "Audio-Einstellungen"
+msgid "Audio"
+msgstr "Audio"
 
 msgid "Output to all devices"
 msgstr "Ausgabe an allen Geräten"
@@ -146,8 +227,8 @@ msgstr "Auflösung"
 msgid "Nvidia overscan compensation"
 msgstr "Nvidia Overscan-Kompensation"
 
-msgid "Basic settings"
-msgstr "Grund Einstellungen"
+msgid "Basic"
+msgstr ""
 
 msgid "Dual-Head Mode"
 msgstr "Dual-Head Modus"
@@ -217,9 +298,6 @@ msgstr "LIRC Aktivieren"
 
 msgid "Activate EventLircd"
 msgstr "Eventlircd aktivieren"
-
-msgid "Edit configurations"
-msgstr "Konfiguration bearbeiten"
 
 msgid "Choose a file:"
 msgstr "Wählen Sie eine Datei:"
@@ -437,6 +515,9 @@ msgstr "Auswahl löschen"
 msgid "Here you can make general setting for and around VDR."
 msgstr "Machen Sie hier die Allgemeinen Einstellungen für und um VDR"
 
+msgid "General"
+msgstr "Allgemein"
+
 msgid "Lifeguard monitoring items"
 msgstr "Lifeguard Überwachungs Punkte"
 
@@ -460,6 +541,9 @@ msgstr "Wollen Sie VDR nur als Backend benutzen für XBMC und mit XBMC TV sehen,
 
 msgid "You can choose this if you don't want to have any video output. This is if you want to use yavdr as server, or disable any decoding on video cards."
 msgstr "Wählen Sie yaVDR Server wenn Sie keinerlei Video-Ausgabe brauchen und wenn man yavdr als Server verwenden will. Es deaktiviert das dekodieren der Videokarten"
+
+msgid "If you want to use VDR with a TT-premium S2-6400 HD."
+msgstr "Für VDR mit einer TT-Premium S2-6400 HD."
 
 msgid "Video Output"
 msgstr "Video Ausgabe"
@@ -572,14 +656,15 @@ msgstr "Konfigurieren Sie hier VDR und seine Applikationen."
 msgid "Hardware"
 msgstr "Hardware"
 
-msgid "General"
-msgstr "Allgemein"
-
 msgid "Remote control"
 msgstr "Einstellung der Fernbedienung"
 
-msgid "Audio"
+#, fuzzy
+msgid "Audi"
 msgstr "Audio"
+
+msgid "Edit configurations"
+msgstr "Konfiguration bearbeiten"
 
 msgid "Packages"
 msgstr "Pakete"
@@ -638,6 +723,9 @@ msgstr "Fehler beim speichern der Daten."
 msgid "Data stored successfully."
 msgstr "Daten erfolgreich gespeichert."
 
+msgid "VDR seams to be switched off or webserver is stopped."
+msgstr "Der VDR scheint ausgeschaltet oder der Webserver angehalten zu sein."
+
 msgid "Introduction"
 msgstr "Einführung"
 
@@ -676,6 +764,13 @@ msgstr "Inhalt"
 
 msgid "Send"
 msgstr "Senden"
+
+msgid "You can configure your sundtek DVB hardware here."
+msgstr "Konfigurieren sie ihre Sundtek DVB Hardware hier."
+
+#, fuzzy
+msgid "Sundtek"
+msgstr "Sundtek erneut Suchen"
 
 msgid "unchanged"
 msgstr "unverändert"
@@ -716,104 +811,20 @@ msgstr "Entferntes einhängen der Geräte erlauben"
 msgid "Rescan for sundtek devices."
 msgstr "Erneut nach Sundtek Geräten suchen"
 
+msgid "Do not change frontend settings"
+msgstr "Einstellungen nicht ändern"
+
+msgid "mount static (without avahi support)"
+msgstr "Statischer Mount (ohne avhia Unterstützung)"
+
+msgid "Language"
+msgstr "Sprache"
+
 msgid "yes"
 msgstr "ja"
 
 msgid "no"
 msgstr "nein"
-
-msgid "CD-Ripper Asunder"
-msgstr "CD-Ripper Asunder"
-
-msgid "Chromium 2D-Shooter"
-msgstr "Chromium 2D-Shooter"
-
-msgid "Mail"
-msgstr "Mail"
-
-msgid "DVD-Rip"
-msgstr "DVD-Rip"
-
-msgid "M.A.M.E"
-msgstr "M.A.M.E"
-
-msgid "ARD"
-msgstr "ARD"
-
-msgid "ZDF"
-msgstr "ZDF"
-
-msgid "DMAX"
-msgstr "DMAX"
-
-msgid "Golem-Video"
-msgstr "Golem-Video"
-
-msgid "SAT1"
-msgstr "SAT1"
-
-msgid "Gametrailers"
-msgstr "Gametrailers"
-
-msgid "Performous"
-msgstr "Performous"
-
-msgid "Pidgin"
-msgstr "Pidgin"
-
-msgid "PIP on/off"
-msgstr "PIP an/aus"
-
-msgid "PIP swap"
-msgstr "PIP tausch"
-
-msgid "PIP"
-msgstr "PIP"
-
-msgid "Semsix"
-msgstr "Semsix"
-
-msgid "Simfy"
-msgstr "Simfy"
-
-msgid "Skype"
-msgstr "Skype"
-
-msgid "SuperTuxKart"
-msgstr "SuperTuxKart"
-
-msgid "Thunderbird-Mail"
-msgstr "Thunderbird-Mail"
-
-msgid "Extreme Tuxracer"
-msgstr "Extreme Tuxracer"
-
-msgid "TV-Browser"
-msgstr "TV-Browser"
-
-msgid "VLC-Media-Player"
-msgstr "VLC-Media-Player"
-
-msgid "Wormux"
-msgstr "Wormux"
-
-msgid "You-Tube"
-msgstr "You-Tube"
-
-msgid "Helix"
-msgstr "Helix"
-
-msgid "Do not change frontend settings"
-msgstr "Einstellungen nicht ändern"
-
-msgid "You can configure your sundtek DVB hardware here."
-msgstr "Konfigurieren sie ihre Sundtek DVB Hardware hier."
-
-msgid "If you want to use VDR with a TT-premium S2-6400 HD."
-msgstr "Für VDR mit einer TT-Premium S2-6400 HD."
-
-msgid "Language"
-msgstr "Sprache"
 
 msgid "Set XBMC defaults"
 msgstr "XBMC Konfiguration zurücksetzen"
@@ -835,3 +846,9 @@ msgstr "H:i"
 
 msgid "Remove marks"
 msgstr "Schnittmarken entfernen"
+
+#~ msgid "Audio Settings"
+#~ msgstr "Audio-Einstellungen"
+
+#~ msgid "Basic settings"
+#~ msgstr "Grund Einstellungen"
