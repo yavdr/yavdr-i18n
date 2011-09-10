@@ -545,6 +545,18 @@ msgstr "Perrašyti neteisingus su DVB standartu nesuderinamus EPG kodavimus, kai
 msgid "Charset override"
 msgstr "Kodavimo perrašymas"
 
+#, fuzzy
+msgid "Append \"%s\" to channels.conf"
+msgstr "Pereiti į channels.conf"
+
+#, fuzzy
+msgid "Append checked channels to channels.conf"
+msgstr "sugeneruotas channels.conf"
+
+#, fuzzy
+msgid "Adding channels to channels.conf"
+msgstr "Pereiti į channels.conf"
+
 msgid "Diagnostics"
 msgstr "Diagnostika"
 
@@ -713,6 +725,9 @@ msgstr "Klaida saugant duomenis."
 msgid "Data stored successfully."
 msgstr "Duomenys išsaugoti sėkmingai."
 
+msgid "VDR seams to be switched off or webserver is stopped."
+msgstr ""
+
 msgid "Introduction"
 msgstr "Įvadas"
 
@@ -800,6 +815,9 @@ msgstr "Nuskanuoti sundtek įrenginius dar kartą."
 msgid "Do not change frontend settings"
 msgstr "Nekeisti įvesties sąsajos nustatymų"
 
+msgid "mount static (without avahi support)"
+msgstr ""
+
 msgid "Language"
 msgstr "Kalba"
 
@@ -829,4 +847,3 @@ msgstr ""
 
 msgid "Remove marks"
 msgstr ""
-

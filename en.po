@@ -546,6 +546,15 @@ msgstr ""
 msgid "Charset override"
 msgstr ""
 
+msgid "Append \"%s\" to channels.conf"
+msgstr ""
+
+msgid "Append checked channels to channels.conf"
+msgstr ""
+
+msgid "Adding channels to channels.conf"
+msgstr ""
+
 msgid "Diagnostics"
 msgstr ""
 
@@ -714,6 +723,9 @@ msgstr ""
 msgid "Data stored successfully."
 msgstr ""
 
+msgid "VDR seams to be switched off or webserver is stopped."
+msgstr ""
+
 msgid "Introduction"
 msgstr ""
 
@@ -799,6 +811,9 @@ msgid "Rescan for sundtek devices."
 msgstr ""
 
 msgid "Do not change frontend settings"
+msgstr ""
+
+msgid "mount static (without avahi support)"
 msgstr ""
 
 msgid "Language"

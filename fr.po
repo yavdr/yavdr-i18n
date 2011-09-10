@@ -552,6 +552,18 @@ msgstr "Remplacer l'incorrecte guide des programmes non compatible DVB, comme ce
 msgid "Charset override"
 msgstr "Remplacer le jeu de caractères"
 
+#, fuzzy
+msgid "Append \"%s\" to channels.conf"
+msgstr "Déplacer dans le channels.conf"
+
+#, fuzzy
+msgid "Append checked channels to channels.conf"
+msgstr "channels.conf généré"
+
+#, fuzzy
+msgid "Adding channels to channels.conf"
+msgstr "Déplacer dans le channels.conf"
+
 msgid "Diagnostics"
 msgstr "Diagnostics"
 
@@ -721,6 +733,9 @@ msgstr "Erreur lors de l'enregistrement des données."
 msgid "Data stored successfully."
 msgstr "Données stockées avec succès."
 
+msgid "VDR seams to be switched off or webserver is stopped."
+msgstr ""
+
 msgid "Introduction"
 msgstr "Introduction"
 
@@ -807,6 +822,9 @@ msgstr "Rescanner pour les dispositifs sundtek."
 
 msgid "Do not change frontend settings"
 msgstr "Ne pas modifier les paramètres de l'interface"
+
+msgid "mount static (without avahi support)"
+msgstr ""
 
 msgid "Language"
 msgstr "Language"

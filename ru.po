@@ -548,6 +548,18 @@ msgstr "Переопределение некорректно т. к. не DVB �
 msgid "Charset override"
 msgstr "Определение набора символов"
 
+#, fuzzy
+msgid "Append \"%s\" to channels.conf"
+msgstr "Переместить в channels.conf"
+
+#, fuzzy
+msgid "Append checked channels to channels.conf"
+msgstr "генерируется channels.conf"
+
+#, fuzzy
+msgid "Adding channels to channels.conf"
+msgstr "Переместить в channels.conf"
+
 msgid "Diagnostics"
 msgstr "Диагностика"
 
@@ -716,6 +728,9 @@ msgstr "Ошибка сохранения данных."
 msgid "Data stored successfully."
 msgstr "Сохранение данных завершено успешно"
 
+msgid "VDR seams to be switched off or webserver is stopped."
+msgstr ""
+
 msgid "Introduction"
 msgstr "Введение"
 
@@ -803,6 +818,9 @@ msgstr "Повторное сканирование для sundtek устрой�
 msgid "Do not change frontend settings"
 msgstr "Не изменять  настройки интерфейса"
 
+msgid "mount static (without avahi support)"
+msgstr ""
+
 msgid "Language"
 msgstr "Язык"
 
@@ -832,4 +850,3 @@ msgstr ""
 
 msgid "Remove marks"
 msgstr ""
-

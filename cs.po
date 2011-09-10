@@ -6,8 +6,9 @@ msgstr ""
 "PO-Revision-Date: 2011-07-31 14:27+0100\n"
 "Last-Translator: Radek Stastny <dedkus@gmail.com>\n"
 "Language-Team: \n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-Language: Czech\n"
 "X-Poedit-Country: CZECH REPUBLIC\n"
@@ -57,7 +58,6 @@ msgstr "Restartovat systém"
 msgid "Shutdown system"
 msgstr "Vypnout systém"
 
-#: begin yavdr-addons
 msgid "CD-Ripper Asunder"
 msgstr "CD-Ripper Asunder"
 
@@ -139,7 +139,6 @@ msgstr "You-Tube"
 msgid "Helix"
 msgstr "Helix"
 
-#: begin avahi-mounter
 msgid "Recording"
 msgstr "Nahrávky"
 
@@ -155,7 +154,6 @@ msgstr "Obrázky"
 msgid "Miscellaneous"
 msgstr "Různé"
 
-#: end avahi-mounter begin web front end yavdrweb-ng/static/javascripts/component/settings/hw_audio.js
 msgid "Please select the audio output. Make your choice and press \"Save\". At saving VDR and the video output will be restarted in order to make your choice activ."
 msgstr "Vyberte audio výstup. Zvolte vybraný výstup a stiskněte \"Uložit\". Po uložení bude VDR a audio výstup restartováno."
 
@@ -192,7 +190,6 @@ msgstr "Audio data budou předána do HDMI bez úprav."
 msgid "Audio output"
 msgstr "Zvukový výstup"
 
-#: yavdrweb-ng/static/javascripts/component/settings/hw_display.js
 msgid "Here you can configure your display settings."
 msgstr "Zde můžete upravit nastavení zobrazení."
 
@@ -259,7 +256,6 @@ msgstr "Výchozí frekvence"
 msgid "rate"
 msgstr "."
 
-#: yavdrweb-ng/static/javascripts/component/settings/hw_remote.js
 msgid "Settings"
 msgstr "Nastavení"
 
@@ -296,7 +292,6 @@ msgstr "Aktivace LIRC"
 msgid "Activate EventLircd"
 msgstr "Aktivace EventLircd"
 
-#: yavdrweb-ng/static/javascripts/component/settings/system_config_editor.js
 msgid "Choose a file:"
 msgstr "Vyberte soubor:"
 
@@ -318,7 +313,6 @@ msgstr "Odeslat na PasteBin"
 msgid "Please wait..."
 msgstr "Čekejte prosím..."
 
-#: yavdrweb-ng/static/javascripts/component/settings/system_generic.js
 msgid "General system settings are made here."
 msgstr "Základní nastavení systému."
 
@@ -388,7 +382,6 @@ msgstr "Zakázat zapnutí pomocí USB"
 msgid "Deactivate USB-wakeup, for incompatible hardware"
 msgstr "Vypne zapínání pomocí USB, kvůli nekompaktibilnímu zařízení "
 
-#: yavdrweb-ng/static/javascripts/component/settings/system_network.js
 msgid "Network"
 msgstr "Síť"
 
@@ -404,7 +397,6 @@ msgstr "Smazat"
 msgid "The name is missing"
 msgstr "Jmeno chybí"
 
-#: yavdrweb-ng/static/javascripts/component/settings/system_packages.js
 msgid "load new information from internet"
 msgstr "stáhnout nové údaje z internetu"
 
@@ -441,7 +433,6 @@ msgstr "Vyberte balíček pro zobrazení podrobností."
 msgid "Version"
 msgstr "Verze"
 
-#: yavdrweb-ng/static/javascripts/component/settings/vdr_channels.js
 msgid "Name of the group"
 msgstr "Jméno skupiny"
 
@@ -514,7 +505,6 @@ msgstr "Smazat \"%s\""
 msgid "Delete selection"
 msgstr "Smazat vybrané"
 
-#: yavdrweb-ng/static/javascripts/component/settings/vdr_generic.js
 msgid "Here you can make general setting for and around VDR."
 msgstr "Základní nastavení VDR."
 
@@ -557,7 +547,18 @@ msgstr "Přepsat chybné DVB nekompatibilní EPG kódování Sky"
 msgid "Charset override"
 msgstr "Přepsání kódování"
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose.js
+#, fuzzy
+msgid "Append \"%s\" to channels.conf"
+msgstr "Přesunout do channels.conf"
+
+#, fuzzy
+msgid "Append checked channels to channels.conf"
+msgstr "vygenerovaný channels.conf"
+
+#, fuzzy
+msgid "Adding channels to channels.conf"
+msgstr "Přesunout do channels.conf"
+
 msgid "Diagnostics"
 msgstr "Diagnostika"
 
@@ -567,7 +568,6 @@ msgstr "Onovit"
 msgid "Go to the end"
 msgstr "Přejít na konec"
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_alsa.js
 msgid "ALSA status information"
 msgstr "ALSA status"
 
@@ -577,7 +577,6 @@ msgstr "ALSA zařízení"
 msgid "ALSA custom sound configuration"
 msgstr "ALSA uživatelská konfigurace"
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_dpkg.js
 msgid "Package information"
 msgstr "Informace o balíčcích"
 
@@ -587,14 +586,12 @@ msgstr "Instalované balíčky (VDR, VDR-Plugins, VDR-Addons, XBMC, yavdr)"
 msgid "Apt history of recently installed packages"
 msgstr "Apt historie nedávno instalovaných balíčků"
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_lirc.js
 msgid "LIRC hardware configuration"
 msgstr "LIRC konfigurace hardware"
 
 msgid "LIRCD configuration"
 msgstr "LIRCD konfigurace"
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_system_information.js
 msgid "System information"
 msgstr "Systémové informace"
 
@@ -610,11 +607,9 @@ msgstr "Využití disků"
 msgid "Kernel log"
 msgstr "Kernel log"
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_system_logs.js
 msgid "Webserver logfile"
 msgstr "Webserver log soubor"
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_vdr.js
 msgid "VDR basic configuration"
 msgstr "VDR základní nastavení"
 
@@ -624,7 +619,6 @@ msgstr "VDR setup.conf"
 msgid "VDR remote.conf"
 msgstr "VDR remote.conf"
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_x11.js
 msgid "Xorg server log"
 msgstr "Xorg server log"
 
@@ -634,18 +628,15 @@ msgstr "konfigurace X-Serveru (jen pokud je dostupné NVIDIA VDPAU)"
 msgid "X-Server logfile"
 msgstr "X-Server log soubor"
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_xbmc.js
 msgid "XBMC crash log"
 msgstr "XBMC chybový log"
 
-#: yavdrweb-ng/static/javascripts/component/system/diagnose_yavdr.js
 msgid "yaVDR database"
 msgstr "yaVDR databáza"
 
 msgid "yaVDR DB"
 msgstr "yaVDR DB"
 
-#: yavdrweb-ng/static/javascripts/component/dashboard.js
 msgid "VDR"
 msgstr "VDR"
 
@@ -661,12 +652,9 @@ msgstr "Nahrávání"
 msgid "Start"
 msgstr "Začátek"
 
-#: yavdrweb-ng/static/javascripts/component/programm.js
 msgid "Schedule"
 msgstr "Program"
 
-#: yavdrweb-ng/static/javascripts/component/recordings.js
-#: yavdrweb-ng/static/javascripts/component/settings.js
 msgid "Here you can configure your VDR and applications around it."
 msgstr "Konfigurace VDR a aplikací."
 
@@ -685,7 +673,6 @@ msgstr "Úpravy nastavení"
 msgid "Packages"
 msgstr "Balíčky"
 
-#: yavdrweb-ng/static/javascripts/component/system.js
 msgid "Here you can monitor your system. You can look into log files and send them to pastebin to let others review them."
 msgstr "Zde je možný monitoring systému, prohlížení log souborů a jejich odeslání na PasteBin pro kontrolu ostatními uživateli."
 
@@ -722,7 +709,6 @@ msgstr "LIRC nastavení"
 msgid "VDR configuration"
 msgstr "VDR nastavení"
 
-#: yavdrweb-ng/static/javascripts/base.js
 msgid "Dashboard"
 msgstr "Hlavní panel"
 
@@ -741,11 +727,12 @@ msgstr "Chyba při ukládání."
 msgid "Data stored successfully."
 msgstr "Uloženo."
 
-#: yavdrweb-ng/static/javascripts/component.js
+msgid "VDR seams to be switched off or webserver is stopped."
+msgstr ""
+
 msgid "Introduction"
 msgstr "Úvod"
 
-#: yavdrweb-ng/static/javascripts/dpkg.js
 msgid "Close"
 msgstr "Zavřít"
 
@@ -770,7 +757,6 @@ msgstr "Vypnout plugin?"
 msgid "Would you like to disable \"%s\"?"
 msgstr "Chcete zakázat \"%s\"?"
 
-#: yavdrweb-ng/static/javascripts/pastebin.js
 msgid "Title (optional)"
 msgstr "Název (nepovinný)"
 
@@ -783,7 +769,6 @@ msgstr "Obsah"
 msgid "Send"
 msgstr "Odeslat"
 
-#: hw_sundtek.js
 msgid "You can configure your sundtek DVB hardware here."
 msgstr "Zde lze nastavit Sundtek zařízení"
 
@@ -832,6 +817,9 @@ msgstr "Detekuji zařízení Sundtek."
 msgid "Do not change frontend settings"
 msgstr "Neměnit nastavení výstupu"
 
+msgid "mount static (without avahi support)"
+msgstr ""
+
 msgid "Language"
 msgstr "Jazyk"
 
@@ -861,4 +849,3 @@ msgstr "H:i"
 
 msgid "Remove marks"
 msgstr "Odstranění značek"
-
