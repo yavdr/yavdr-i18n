@@ -266,8 +266,9 @@ msgstr "frequenza"
 msgid "Settings"
 msgstr "Impostazioni"
 
-msgid "Here you can configure your remote hardware. The default and most common choice is EventLircd."
-msgstr "Qui puoi configurare il telecomando. La scelta più comune e predefinita è EventLircd."
+#, fuzzy
+msgid "Here you can configure your remote hardware."
+msgstr "Qui puoi configurare la scheda DVB Sundtek"
 
 msgid "EventLircd"
 msgstr "EventLircd"
@@ -856,3 +857,6 @@ msgstr "H:i"
 
 msgid "Remove marks"
 msgstr ""
+
+#~ msgid "Here you can configure your remote hardware. The default and most common choice is EventLircd."
+#~ msgstr "Qui puoi configurare il telecomando. La scelta più comune e predefinita è EventLircd."

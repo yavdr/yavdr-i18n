@@ -257,8 +257,9 @@ msgstr "dažnis"
 msgid "Settings"
 msgstr "Nustatymai"
 
-msgid "Here you can configure your remote hardware. The default and most common choice is EventLircd."
-msgstr "Čia galite nustatyti distancinio valdymo įrangą. Numatytasis ir dažniausiai naudojamas pasirinkimas yra EventLircd."
+#, fuzzy
+msgid "Here you can configure your remote hardware."
+msgstr "Čia galite nustatyti savo sundtek DVB geležį."
 
 msgid "EventLircd"
 msgstr "EventLircd"
@@ -847,3 +848,6 @@ msgstr ""
 
 msgid "Remove marks"
 msgstr ""
+
+#~ msgid "Here you can configure your remote hardware. The default and most common choice is EventLircd."
+#~ msgstr "Čia galite nustatyti distancinio valdymo įrangą. Numatytasis ir dažniausiai naudojamas pasirinkimas yra EventLircd."

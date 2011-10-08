@@ -260,8 +260,9 @@ msgstr "коэффициент"
 msgid "Settings"
 msgstr "Настройки"
 
-msgid "Here you can configure your remote hardware. The default and most common choice is EventLircd."
-msgstr "Здесь вы можете настроить дистанционное управление. По-умолчанию и наиболее распространенный выбор EventLircd."
+#, fuzzy
+msgid "Here you can configure your remote hardware."
+msgstr "Вы можете здесь настроить аппаратное устройство sundtek DVB."
 
 msgid "EventLircd"
 msgstr "EventLircd"
@@ -850,3 +851,6 @@ msgstr ""
 
 msgid "Remove marks"
 msgstr ""
+
+#~ msgid "Here you can configure your remote hardware. The default and most common choice is EventLircd."
+#~ msgstr "Здесь вы можете настроить дистанционное управление. По-умолчанию и наиболее распространенный выбор EventLircd."

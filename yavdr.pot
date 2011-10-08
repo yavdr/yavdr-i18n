@@ -271,7 +271,7 @@ msgstr ""
 msgid "Settings"
 msgstr ""
 
-msgid "Here you can configure your remote hardware. The default and most common choice is EventLircd."
+msgid "Here you can configure your remote hardware."
 msgstr ""
 
 msgid "EventLircd"

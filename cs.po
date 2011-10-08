@@ -259,8 +259,9 @@ msgstr "."
 msgid "Settings"
 msgstr "Nastavení"
 
-msgid "Here you can configure your remote hardware. The default and most common choice is EventLircd."
-msgstr "Nastavení dálkového ovládaní. Výchozí a nejčasteji používaná je volba EventLircd."
+#, fuzzy
+msgid "Here you can configure your remote hardware."
+msgstr "Zde lze nastavit Sundtek zařízení"
 
 msgid "EventLircd"
 msgstr "EventLircd"
@@ -849,3 +850,6 @@ msgstr "H:i"
 
 msgid "Remove marks"
 msgstr "Odstranění značek"
+
+#~ msgid "Here you can configure your remote hardware. The default and most common choice is EventLircd."
+#~ msgstr "Nastavení dálkového ovládaní. Výchozí a nejčasteji používaná je volba EventLircd."
