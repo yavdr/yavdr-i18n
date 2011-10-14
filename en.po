@@ -724,6 +724,9 @@ msgid "Data stored successfully."
 msgstr ""
 
 msgid "VDR seams to be switched off or webserver is stopped."
+msgstr "VDR seems to be switched off or webserver is stopped."
+
+msgid "yaVDR database seems to be corrupted or missing."
 msgstr ""
 
 msgid "Introduction"

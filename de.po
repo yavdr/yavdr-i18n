@@ -736,6 +736,9 @@ msgstr "Daten erfolgreich gespeichert."
 msgid "VDR seams to be switched off or webserver is stopped."
 msgstr "Der VDR scheint ausgeschaltet oder der Webserver angehalten zu sein."
 
+msgid "yaVDR database seems to be corrupted or missing."
+msgstr "Die yaVDR Datenbank schein zu fehlen oder defekt zu sein."
+
 msgid "Introduction"
 msgstr "Einführung"
 

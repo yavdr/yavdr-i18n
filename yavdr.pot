@@ -782,6 +782,9 @@ msgstr ""
 msgid "VDR seams to be switched off or webserver is stopped."
 msgstr ""
 
+msgid "yaVDR database seems to be corrupted or missing."
+msgstr ""
+
 #: yavdrweb-ng/static/javascripts/component.js
 
 msgid "Introduction"
