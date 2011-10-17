@@ -271,7 +271,7 @@ msgstr ""
 msgid "Settings"
 msgstr ""
 
-msgid "Here you can configure your remote hardware. The default and most common choice is EventLircd."
+msgid "Here you can configure your remote hardware."
 msgstr ""
 
 msgid "EventLircd"
@@ -780,6 +780,9 @@ msgid "Data stored successfully."
 msgstr ""
 
 msgid "VDR seams to be switched off or webserver is stopped."
+msgstr ""
+
+msgid "yaVDR database seems to be corrupted or missing."
 msgstr ""
 
 #: yavdrweb-ng/static/javascripts/component.js

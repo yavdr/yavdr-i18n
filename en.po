@@ -258,8 +258,8 @@ msgstr ""
 msgid "Settings"
 msgstr ""
 
-msgid "Here you can configure your remote hardware. The default and most common choice is EventLircd."
-msgstr ""
+msgid "Here you can configure your remote hardware."
+msgstr "Here you can configure your remote hardware. The default and most common choice is EventLircd. Trax, your turn."
 
 msgid "EventLircd"
 msgstr ""
@@ -724,6 +724,9 @@ msgid "Data stored successfully."
 msgstr ""
 
 msgid "VDR seams to be switched off or webserver is stopped."
+msgstr "VDR seems to be switched off or webserver is stopped."
+
+msgid "yaVDR database seems to be corrupted or missing."
 msgstr ""
 
 msgid "Introduction"

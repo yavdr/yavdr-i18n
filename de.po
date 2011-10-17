@@ -266,8 +266,9 @@ msgstr "Rate"
 msgid "Settings"
 msgstr "Einstellungen"
 
-msgid "Here you can configure your remote hardware. The default and most common choice is EventLircd."
-msgstr "Konfigurieren Sie hier ihre Fernbedienung. Die Voreinstellung und am meisten gebrauchte Wahl ist Eventlircd."
+#, fuzzy
+msgid "Here you can configure your remote hardware."
+msgstr "Konfigurieren sie ihre Sundtek DVB Hardware hier."
 
 msgid "EventLircd"
 msgstr "Eventlircd"
@@ -735,6 +736,9 @@ msgstr "Daten erfolgreich gespeichert."
 msgid "VDR seams to be switched off or webserver is stopped."
 msgstr "Der VDR scheint ausgeschaltet oder der Webserver angehalten zu sein."
 
+msgid "yaVDR database seems to be corrupted or missing."
+msgstr "Die yaVDR Datenbank schein zu fehlen oder defekt zu sein."
+
 msgid "Introduction"
 msgstr "Einführung"
 
@@ -855,6 +859,9 @@ msgstr "H:i"
 
 msgid "Remove marks"
 msgstr "Schnittmarken entfernen"
+
+#~ msgid "Here you can configure your remote hardware. The default and most common choice is EventLircd."
+#~ msgstr "Konfigurieren Sie hier ihre Fernbedienung. Die Voreinstellung und am meisten gebrauchte Wahl ist Eventlircd."
 
 #~ msgid "Audio Settings"
 #~ msgstr "Audio-Einstellungen"
