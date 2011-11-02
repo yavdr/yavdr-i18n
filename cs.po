@@ -851,5 +851,12 @@ msgstr "H:i"
 msgid "Remove marks"
 msgstr "Odstranění značek"
 
+msgid "Remove Index-File"
+msgstr ""
+
+msgid "Mark advertisements"
+msgstr ""
+
 #~ msgid "Here you can configure your remote hardware. The default and most common choice is EventLircd."
 #~ msgstr "Nastavení dálkového ovládaní. Výchozí a nejčasteji používaná je volba EventLircd."
+

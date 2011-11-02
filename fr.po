@@ -857,5 +857,11 @@ msgstr ""
 msgid "Remove marks"
 msgstr ""
 
+msgid "Remove Index-File"
+msgstr ""
+
+msgid "Mark advertisements"
+msgstr ""
+
 #~ msgid "Here you can configure your remote hardware. The default and most common choice is EventLircd."
 #~ msgstr "Ici, vous pouvez configurer votre télécommande. Le choix par défaut et la plus commune est EventLircd."

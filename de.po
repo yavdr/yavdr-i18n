@@ -860,6 +860,12 @@ msgstr "H:i"
 msgid "Remove marks"
 msgstr "Schnittmarken entfernen"
 
+msgid "Remove Index-File"
+msgstr "Index Datei entfernen"
+
+msgid "Mark advertisements"
+msgstr "Werbung markieren"
+
 #~ msgid "Here you can configure your remote hardware. The default and most common choice is EventLircd."
 #~ msgstr "Konfigurieren Sie hier ihre Fernbedienung. Die Voreinstellung und am meisten gebrauchte Wahl ist Eventlircd."
 

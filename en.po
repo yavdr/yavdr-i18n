@@ -846,5 +846,11 @@ msgstr ""
 msgid "H:i"
 msgstr "h:ia"
 
+msgid "Remove Index-File"
+msgstr ""
+
+msgid "Mark advertisements"
+msgstr ""
+
 msgid "Remove marks"
 msgstr ""

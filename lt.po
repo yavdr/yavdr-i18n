@@ -849,5 +849,11 @@ msgstr ""
 msgid "Remove marks"
 msgstr ""
 
+msgid "Remove Index-File"
+msgstr ""
+
+msgid "Mark advertisements"
+msgstr ""
+
 #~ msgid "Here you can configure your remote hardware. The default and most common choice is EventLircd."
 #~ msgstr "Čia galite nustatyti distancinio valdymo įrangą. Numatytasis ir dažniausiai naudojamas pasirinkimas yra EventLircd."

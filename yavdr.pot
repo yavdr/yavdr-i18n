@@ -913,4 +913,10 @@ msgstr ""
 msgid "Remove marks"
 msgstr ""
 
+msgid "Remove Index-File"
+msgstr ""
+
+msgid "Mark advertisements"
+msgstr ""
+
 #: end web front end
