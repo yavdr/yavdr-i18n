@@ -553,6 +553,9 @@ msgstr ""
 msgid "This is an alternative frontend. It is using the xine plugin using Xine for decoding."
 msgstr ""
 
+msgid "This is an alternative frontend. It is using the softhddevice plugin using GPU for decoding."
+msgstr ""
+
 msgid "If you want to use VDR as backend for XBMC and watch TV only in XBMC this is your choice."
 msgstr ""
 

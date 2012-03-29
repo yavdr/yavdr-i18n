@@ -537,6 +537,9 @@ msgstr "Die Auswahl gebraucht das Xineliboutput Plugin mit dem VDR-sxfe Frontend
 msgid "This is an alternative frontend. It is using the xine plugin using Xine for decoding."
 msgstr "Wählen Sie Xine-Plugin als Alternative."
 
+msgid "This is an alternative frontend. It is using the softhddevice plugin using GPU for decoding."
+msgstr "Wählen Sie das SoftHDDevice-Plugin als Alternative."
+
 msgid "If you want to use VDR as backend for XBMC and watch TV only in XBMC this is your choice."
 msgstr "Wollen Sie VDR nur als Backend benutzen für XBMC und mit XBMC TV sehen, dann ist das Ihre Wahl."
 
