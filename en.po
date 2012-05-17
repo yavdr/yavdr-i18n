@@ -229,16 +229,16 @@ msgid "GraphTFT"
 msgstr ""
 
 msgid "Xine"
-msgstr ""
+msgstr "Xine/SoftHDDevice Settings"
 
 msgid "Xine HD deinterlacer"
-msgstr ""
+msgstr "Xine/SHD HD deinterlacer"
 
 msgid "default"
 msgstr ""
 
 msgid "Xine SD deinterlacer"
-msgstr ""
+msgstr "Xine/SHD SD deinterlacer"
 
 msgid "disabled (less than 2 displays found)"
 msgstr ""
