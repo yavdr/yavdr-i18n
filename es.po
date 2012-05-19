@@ -4,25 +4,23 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: yavdr-i18n\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: <see README>\n"
 "POT-Creation-Date: 2011-04-14 17:02+0100\n"
-"PO-Revision-Date: 2011-05-14 19:09+0100\n"
-"Last-Translator: Rififi77 <ri.fifi@laposte.net>\n"
-"Language-Team:  <hotzenplotz5@gmx.de>\n"
-"Language: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Javier Bradineras <jbradi@hotmail.com>\n"
+"Language-Team: \n"
+"Language: Spanish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Language: French\n"
-"X-Poedit-Country: FRANCE\n"
-"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Language: Spanish\n"
 
 msgid "Timer"
-msgstr "Programmation"
+msgstr "Programación"
 
 msgid "Applications"
-msgstr "Applications"
+msgstr "Aplicaciones"
 
 msgid "Web"
 msgstr "Web"
@@ -31,37 +29,37 @@ msgid "Internet"
 msgstr "Internet"
 
 msgid "Media"
-msgstr "Média"
+msgstr "Medios"
 
 msgid "XBMC on graphtft Display"
-msgstr "XBMC sur l'affichage graphtft "
+msgstr "XBMC en pantalla graphtft"
 
 msgid "Games"
-msgstr "Jeux"
+msgstr "Juegos"
 
 msgid "Tools"
-msgstr "Outils"
+msgstr "Herramientas"
 
 msgid "Xterm"
-msgstr "Xtrem"
+msgstr "Terminal"
 
 msgid "Commands"
-msgstr "Commandes"
+msgstr "Comandos"
 
 msgid "Safely remove usb mass storage"
-msgstr "Retirer en toute sécurité les unitées de stockage USB"
+msgstr "Desmontar disco usb de forma segura"
 
 msgid "Update vdr recordings list"
-msgstr "Mise à jour de la liste des enregistrements vdr"
+msgstr "Actualizar lista de grabaciones del VDR"
 
 msgid "Restart VDR"
-msgstr "Redémarrez VDR"
+msgstr "Reiniciar VDR"
 
 msgid "Reboot system"
-msgstr "Redémarrez le système"
+msgstr "Reiniciar sistema"
 
 msgid "Shutdown system"
-msgstr "Arrêter le système"
+msgstr "Apagar sistema"
 
 msgid "CD-Ripper Asunder"
 msgstr "CD-Ripper Asunder"
@@ -70,7 +68,7 @@ msgid "Chromium 2D-Shooter"
 msgstr "Chromium 2D-Shooter"
 
 msgid "Mail"
-msgstr "Mail"
+msgstr "Correo electrónico"
 
 msgid "DVD-Rip"
 msgstr "DVD-Rip"
@@ -91,7 +89,7 @@ msgid "Golem-Video"
 msgstr "Golem-Video"
 
 msgid "SAT1"
-msgstr "SAT1"
+msgstr "SAT"
 
 msgid "Gametrailers"
 msgstr "Gametrailers"
@@ -103,10 +101,10 @@ msgid "Pidgin"
 msgstr "Pidgin"
 
 msgid "PIP on/off"
-msgstr "PIP on/off"
+msgstr "Activar/desactivar PIP"
 
 msgid "PIP swap"
-msgstr "PIP swap"
+msgstr "Intercambiar PIP"
 
 msgid "PIP"
 msgstr "PIP"
@@ -124,13 +122,13 @@ msgid "SuperTuxKart"
 msgstr "SuperTuxKart"
 
 msgid "Thunderbird-Mail"
-msgstr "Thunderbird-Mail"
+msgstr "Correo-e thunderbird"
 
 msgid "Extreme Tuxracer"
 msgstr "Extreme Tuxracer"
 
 msgid "TV-Browser"
-msgstr "TV-Browser"
+msgstr "Navegador TV"
 
 msgid "VLC-Media-Player"
 msgstr "VLC-Media-Player"
@@ -145,91 +143,91 @@ msgid "Helix"
 msgstr "Helix"
 
 msgid "Recording"
-msgstr "Enregistrement"
+msgstr "Grabación"
 
 msgid "Video"
-msgstr "Vidéo"
+msgstr "Vídeo"
 
 msgid "Music"
-msgstr "Musique"
+msgstr "Música"
 
 msgid "Picture"
-msgstr "Image"
+msgstr "Imagen"
 
 msgid "Miscellaneous"
-msgstr "Divers"
+msgstr "Varios"
 
 msgid "Please select the audio output. Make your choice and press \"Save\". At saving VDR and the video output will be restarted in order to make your choice activ."
-msgstr "S'il vous plaît sélectionner la sortie audio. Faites votre choix et appuyez sur \"Sauvegarder \". Après la sauvegarde VDR et la sortie vidéo seront redémarrés afin de rendre votre choix actif."
+msgstr "Por favor seleccione la salida de audio. Haga su elección y pulse \"Guardar\". Al guardar, VDR y la salidad de video se reiniciarán para activar su elección"
 
 msgid "Audio"
 msgstr "Audio"
 
 msgid "Output to all devices"
-msgstr "Sortie de tous les périphériques"
+msgstr "Salida de a todos los dispositivos"
 
 msgid "Analog"
-msgstr "Analogique"
+msgstr "Analógico"
 
 msgid "Audio output will happen through the speaker/headphone plug"
-msgstr "La sortie audio passera par le haut-parleur/Prise casque"
+msgstr "La salida de audio funcionará mediante el altavoz/auricular conectado"
 
 msgid "Digital (Toslink/SPDIF)"
-msgstr "Numérique (Toslink / SPDIF)"
+msgstr "Digital (Toslink/SPDIF)"
 
 msgid "Audio output will happen through Toslink/SPDIF."
-msgstr "La sortie audio passera par Toslink / SPDIF."
+msgstr "La salida de audio se realizará mediante Toslink/SPDIF"
 
 msgid "HDMI-Stereo"
-msgstr "HDMI-stéréo"
+msgstr "HDMI-Stereo"
 
 msgid "Audio output will happen through HDMI in PCM. This variant does a downmix for HDMI devices which only can handle stereo (i.e. tv sets)."
-msgstr "La sortie audio HDMI passera par le PCM. Cette variante n'est qu'un mix pour les périphériques HDMI qui ne peuvent gérer la stéréo (téléviseurs par exemple)."
+msgstr "La salida de audio se realizará a través de HDMI en PCM. Esta variante realiza una mezcla en los dispositivos HDMI que únicamente soportan estéreo (p.e. televisores)"
 
 msgid "HDMI-Passthrough"
 msgstr "HDMI-Passthrough"
 
 msgid "Audio output will happen through HDMI with Pass Through."
-msgstr "La sortie audio passera par l'HDMI avec Pass Through."
+msgstr "La salida de audio se realizará mediante HDMI con Pass Through"
 
 msgid "Audio output"
-msgstr "Sortie audio"
+msgstr "Salida de audio"
 
 msgid "Here you can configure your display settings."
-msgstr "Ici vous pouvez configurer vos paramètres d'affichage."
+msgstr "Aquí puede realizar los ajustes de vídeo"
 
 msgid "Display"
-msgstr "Affichage"
+msgstr "Pantalla"
 
 msgid "Rescan displays"
-msgstr "Rescanner les affichages"
+msgstr "Detectar pantallas"
 
 msgid "Refresh rate"
-msgstr "Taux de rafraîchissement"
+msgstr "Tasa de refresco"
 
 msgid "Device"
-msgstr "Périphérique"
+msgstr "Dispositivo"
 
 msgid "Primary"
-msgstr "Principal"
+msgstr "Primario"
 
 msgid "Secondary"
-msgstr "Secondaire"
+msgstr "Secundario"
 
 msgid "Select resolution"
-msgstr "Sélectionnez la résolution"
+msgstr "Seleccionar resolución"
 
 msgid "Resolution"
-msgstr "Résolution"
+msgstr "Resolución"
 
 msgid "Nvidia overscan compensation"
-msgstr "Compensation Nvidia overscan"
+msgstr "Compensación de overscan de Nvidia"
 
 msgid "Basic"
-msgstr "De base"
+msgstr "Básico"
 
 msgid "Dual-Head Mode"
-msgstr "Mode Dual-Head"
+msgstr "Modo Dual-Head"
 
 msgid "GraphTFT"
 msgstr "GraphTFT"
@@ -238,35 +236,35 @@ msgid "Xine"
 msgstr "Xine"
 
 msgid "Xine HD deinterlacer"
-msgstr "Xine HD désentrelacé"
+msgstr "Desentrelazado Xine HD"
 
 msgid "default"
-msgstr "défaut"
+msgstr "predefinido"
 
 msgid "Xine SD deinterlacer"
-msgstr "Xine SD désentrelacé"
+msgstr "Desentrelazado Xine SD"
 
 msgid "disabled (less than 2 displays found)"
-msgstr "désactivé (moins de 2 Affichages trouvé)"
+msgstr "desactivado (encontradas menos de 2 pantallas)"
 
 msgid "Rescan display. Displays may flicker."
-msgstr "Rescanner l'affichage. L'affichage peut clignoter."
+msgstr "Detectar pantalla. Se puede producir un parpadeo"
 
 msgid "Rescan display failed."
-msgstr "Le rescannage de l'affichage a échoué."
+msgstr "La detección de pantalla ha fallado"
 
 msgid "Default frequency"
-msgstr "Fréquence par défaut"
+msgstr "Frecuencia predefinida"
 
 msgid "rate"
-msgstr "taux"
+msgstr "tasa"
 
 msgid "Settings"
-msgstr "Paramètres"
+msgstr "Configuracion"
 
 #, fuzzy
 msgid "Here you can configure your remote hardware."
-msgstr "Vous pouvez configurer votre matériel DVB sundtek ici."
+msgstr "Aquí puede configurar su mando a distáncia. La opción por defecto y usada con mayor frecuencia es EventLircd."
 
 msgid "EventLircd"
 msgstr "EventLircd"
@@ -275,349 +273,346 @@ msgid "LIRC"
 msgstr "LIRC"
 
 msgid "Driver"
-msgstr "Pilote"
+msgstr "Controlador"
 
 msgid "LIRC driver"
-msgstr "Pilote LIRC"
+msgstr "Controlador LIRC"
 
 msgid "HW-Default"
-msgstr "Défaut-HW"
+msgstr "HW-Predeterminado"
 
 msgid "Lircd-Conf"
 msgstr "Lircd-Conf"
 
 msgid "Receiver"
-msgstr "Récepteur"
+msgstr "Receptor"
 
 msgid "Serial port"
-msgstr "Port série"
+msgstr "Puerto serie"
 
 msgid "Activate LIRC"
-msgstr "Activer LIRC"
+msgstr "Activar LIRC"
 
 msgid "Activate EventLircd"
-msgstr "Activer EventLircd"
+msgstr "Activar EventLircd"
 
 msgid "Choose a file:"
-msgstr "Choisissez un fichier:"
+msgstr "Seleccionar fichero:"
 
 msgid "Save"
-msgstr "Sauvegarder"
+msgstr "Guardar"
 
 msgid "System"
-msgstr "Système"
+msgstr "Sistema"
 
 msgid "Reload"
-msgstr "Recharger"
+msgstr "Recargar"
 
 msgid "Mark content"
-msgstr "Marquer le contenu"
+msgstr "Indique el contenido"
 
 msgid "Send to PasteBin"
-msgstr "Envoyer à PasteBin"
+msgstr "Enviar a PasteBin"
 
 msgid "Please wait..."
-msgstr "Patienter s'il vous plaît..."
+msgstr "Por favor espere..."
 
 msgid "General system settings are made here."
-msgstr "Les paramètres général du système sont modifiés ici."
+msgstr "Aquí se realiza la configuración general del sistema"
 
 msgid "Webfrontend language"
-msgstr "Langage de l'interface web"
+msgstr "Idioma del interface web"
 
 msgid "Shutdown and wakeup"
-msgstr "Arrêt et réveil"
+msgstr "Apagar y activar"
 
 msgid "Grub"
 msgstr "Grub"
 
 msgid "Choose timeout in seconds:"
-msgstr "Choisissez le délai d'attente en secondes:"
+msgstr "Elija el tiempo de espera en segundos:"
 
 msgid "\"The maximum is 10.\""
-msgstr "\"Le maximum est de 10.\""
+msgstr "\"El máximo es 10.\""
 
 msgid "\"The minimum is 0.\""
-msgstr "\"Le minimum est de 0.\""
+msgstr "\"El mínimo es 0.\""
 
 msgid "\"Language\""
-msgstr "\"Language\""
+msgstr "\"Idioma\""
 
 msgid "Suspend to RAM"
-msgstr "veille (en mémoire)"
+msgstr "Suspensión en RAM"
 
 msgid "Switches the computer into energy saving mode. Only RAM will be supplied with Power."
-msgstr "Passe l'ordinateur en mode économie d'énergie."
+msgstr "Cambiar el ordendor al modo de ahorro de energía. Únicamente se alimentará la RAM"
 
 msgid "Fake suspend to disk"
-msgstr "veille prolongée (sur disque) "
+msgstr "Suspensión falsa en disco"
 
 msgid "Alternative for Suspend to RAM. This can be used as a fallback for some problematic devices"
-msgstr "Alternative à la veille (en mémoire). Ceci peut être utilisé comme solution de repli pour certains périphériques problématiques"
+msgstr "Alternativa a la suspensión en RAM. Puede ser usada como reserva para algunos dispositivos problemáticos"
 
 msgid "Shutdown"
-msgstr "Extinction"
+msgstr "Apagar"
 
 msgid "This is the classical shutdown."
-msgstr "C'est l'arrêt classique."
+msgstr "Este es el apagado clásigo"
 
 msgid "reboot PowerOff-kernel"
-msgstr "redémarrage \"PowerOff\" kernel"
+msgstr "reiniciar PowerOff-kernel"
 
 msgid "Some Hardware needs the PowerOff kernel in order to be able to shut down. Use this if you have this problem."
-msgstr "Certains matériel ont besoins du noyau \"PowerOff\" afin d'être en mesure de s'arrêter. Utilisez cette option si vous avez ce problème."
+msgstr "Algunos dispositivos necesitan el modo PowerOff kernel para poder apagarse. Usar esta opción si tiene este problema"
 
 msgid "Without timer wakeup."
-msgstr "Pas de réveil par minuterie."
+msgstr "Sin encendido programado"
 
 msgid "ACPI timer wakeup. YaVDR default setting."
-msgstr "ACPI réveil par minuterie. Réglage YaVDR par défaut."
+msgstr "Programador de encendido ACPI. Valor prededifino en YaVDR"
 
 msgid "You need a special nvram configuration to use it."
-msgstr "Vous avez besoin d'une configuration nvram spéciale pour l'utiliser."
+msgstr "Necesita una configuración nvram especial para utilizarlo"
 
 msgid "Shutdown method"
-msgstr "Méthode d'arrêt"
+msgstr "Método de apagado"
 
 msgid "Wakeup method"
-msgstr "Méthode de réveil"
+msgstr "Método de encendido"
 
 msgid "Disable USB-wakeup"
-msgstr "Désactiver le réveil par USB"
+msgstr "Inhabilitar encendido por USB"
 
 msgid "Deactivate USB-wakeup, for incompatible hardware"
-msgstr "Désactiver le réveil par USB, pour le matériel incompatible"
+msgstr "Desactivar encendido por USB, por incompatibilidad de hardware"
 
 msgid "Network"
-msgstr "Réseau"
+msgstr "Red"
 
 msgid "You can define Host and shares which should be mounted automatically. You need to key in the shares using \"host:/path/to/the/share\"."
-msgstr "Vous pouvez définir l'hôte et le partage qui devrait être monté automatiquement. Vous avez besoin de la clé de partage en utilisant \"hôte:/chemin/vers/le/partage/\"."
+msgstr "Puede definir el servidor y compartir las que deberían montarse automáticamente. Necesita indicar una contraseña, para uso compartido, en \"servidor:/ruta/compartida\"."
 
 msgid "Add"
-msgstr "Ajouter"
+msgstr "Añadir"
 
 msgid "Delete"
-msgstr "Supprimer"
+msgstr "Borrar"
 
 msgid "The name is missing"
-msgstr "Le nom est manquant"
+msgstr "Falta el nombre"
 
 msgid "load new information from internet"
-msgstr "charge de nouvelles informations à partir d'Internet"
+msgstr "cargar información actualizada desde internet"
 
 msgid "remove unneeded packages"
-msgstr "supprimer les paquetages inutiles"
+msgstr "eliminar paquetes innecesarios"
 
 msgid "clears out the local repository of retrieved package file"
-msgstr "nettoie le dépôt local des paquetages récupérés"
+msgstr "borra los ficheros de paquetes recuperados del respositorio local"
 
 msgid "Install"
-msgstr "Installer"
+msgstr "Instalar"
 
 msgid "Remove"
-msgstr "Supprimer"
+msgstr "Suprimir"
 
 msgid "Activate"
-msgstr "Activer"
+msgstr "Activar"
 
 msgid "Deactivate"
-msgstr "Désactiver"
+msgstr "Desactivar"
 
 msgid "Package"
-msgstr "Paquetage"
+msgstr "Paquete"
 
 msgid "Maintainer"
-msgstr "Mainteneur"
+msgstr "Mantenedor"
 
 msgid "Description"
-msgstr "Description"
+msgstr "Descripción"
 
 msgid "Please select a package to see additional details."
-msgstr "S'il vous plaît choisissez un paquetage pour voir les détails supplémentaires."
+msgstr "Por favor seleccione un paquete para ver detalles adicionales"
 
 msgid "Version"
-msgstr "Version"
+msgstr "Versión"
 
 msgid "Name of the group"
-msgstr "Nom du groupe"
+msgstr "Nombre del grupo"
 
 msgid "Name"
-msgstr "Nom"
+msgstr "Nombre"
 
 msgid "Next channel no."
-msgstr "Chaîne suivante no."
+msgstr "Siguiente canal nº"
 
 msgid "\"ChannelsReader.read: Channels not available\""
-msgstr "\"ChannelsReader.read: Chaînes non disponible\""
+msgstr "\"Lector ChannelsReader: Canales no disponibles\""
 
 msgid "Channels saved"
-msgstr "Chaînes sauvegardées"
+msgstr "Canales guardados"
 
 msgid "generated channels.conf"
-msgstr "channels.conf généré"
+msgstr "channels.conf generado"
 
 msgid "Channels"
-msgstr "Chaînes"
+msgstr "Canales"
 
 msgid "Clipboard"
-msgstr "Presse-papiers"
+msgstr "Portapapeles"
 
 msgid "Move into channels.conf"
-msgstr "Déplacer dans le channels.conf"
+msgstr "Mover a channels.conf"
 
 msgid "Add new group"
-msgstr "Ajouter un nouveau groupe"
+msgstr "Añadir grupo nuevo"
 
 msgid "Please enter the group name:"
-msgstr "S'il vous plaît entrez le nom du groupe:"
+msgstr "Por favor, introduzca el nombre del grupo:"
 
 msgid "Display channels.conf"
-msgstr "channels.conf affichage"
+msgstr "Muestre channels.conf"
 
 msgid "\"Channel\""
-msgstr "\"Chaîne\""
+msgstr "\"Canal\""
 
 msgid "\"Name\""
-msgstr "\"Nom\""
+msgstr "\"Nombre\""
 
 msgid "\"Provider\""
-msgstr "\"fournisseur\""
+msgstr "\"Proveedor\""
 
 msgid "\"loading channels\""
-msgstr "\"chaînes téléchargées\""
+msgstr "\"cargando canales\""
 
 msgid "Move into clipboard"
-msgstr "Déplacer dans le presse papier"
+msgstr "Mover al portapapeles"
 
 msgid "On top"
-msgstr "En Haut"
+msgstr "En la parte superior"
 
 msgid "At bottom"
-msgstr "En bas"
+msgstr "En la parte inferior"
 
 msgid "Insert clipboard"
-msgstr "Insérer le presse-papiers"
+msgstr "Insertar portapapeles"
 
 msgid "Above %s"
-msgstr "Ci-dessus %s"
+msgstr "Encima %s"
 
 msgid "Below %s"
-msgstr "Ci-dessous %s"
+msgstr "Debajo %s"
 
 msgid "Delete \"%s\""
-msgstr "Supprimer  \"%s\""
+msgstr "Borrar \"%s\""
 
 msgid "Delete selection"
-msgstr "Supprimer la sélection"
+msgstr "Borrar selección"
 
 msgid "Here you can make general setting for and around VDR."
-msgstr "Ici vous pouvez faire le réglage général de VDR."
+msgstr "Aquí puede definir la configuración general de VDR"
 
 msgid "General"
-msgstr "Général"
+msgstr "General"
 
 msgid "Lifeguard monitoring items"
-msgstr "Éléments de surveillance Lifeguard"
+msgstr "Elementos de monitorización de salvaguarda"
 
 msgid "EPG"
-msgstr "Guide electronique des programmes"
+msgstr "EPG"
 
 msgid "Lifeguard"
-msgstr "Lifeguard"
+msgstr "Salvaguarda"
 
 msgid "VDR-Lifeguard will check the choosen items before allowing the shutdown. Please choose the items which should not be interrupted by a shutdown. Not checked means it will not block the shutdown."
-msgstr "VDR-Lifeguard vérifie les articles sélectionnés avant d'autoriser la fermeture. S'il vous plaît sélectionnez les articles qui ne devrait pas être interrompue par un arrêt. Non coché signifie qu'il ne va pas bloquer la fermeture."
+msgstr "Salvaguarda-VDR comprobará los elementos elegidos antes de permitir el apagado. Por favor elija que procesos no se deben interrumpir al apagar. Los no seleccionados no impedirán el apagado"
 
 msgid "This choice is using the xineliboutput plugin with frontend vdr-sxfe."
-msgstr "Ce choix est d'utiliser le plugin xineliboutput avec l'interface vdr-sxfe."
+msgstr "Esta opción utiliza el plugin xineliboutput con el interface vdr-sxfe"
 
 msgid "This is an alternative frontend. It is using the xine plugin using Xine for decoding."
-msgstr "Il s'agit d'une interface de remplacement. Il utilise le plugin xine utilisant Xine pour le décodage."
+msgstr "Este es un interface alternativo. Usa el plugin xine y Xine para el decodificado"
 
 msgid "If you want to use VDR as backend for XBMC and watch TV only in XBMC this is your choice."
-msgstr "Si vous souhaitez utiliser VDR comme arrière-plan à XBMC et regarder la télévision que dans XBMC c'est votre choix."
+msgstr "Si quiere utilizar VDR como sistema para XBMC y ver únicamente la TV en XBMC, esta es su elección"
 
 msgid "You can choose this if you don't want to have any video output. This is if you want to use yavdr as server, or disable any decoding on video cards."
-msgstr "Vous pouvez choisir cette option si vous ne voulez pas avoir de sortie vidéo. C'est si vous voulez utiliser yavdr comme serveur, ou désactiver tout décodage sur les cartes vidéo."
+msgstr "Puede elegir este si no quiere tener salida de vídeo. Es decir, si quieres usar yavdr como servidor, o desactivar la decodificación de las tarjetas de vídeo"
 
 msgid "If you want to use VDR with a TT-premium S2-6400 HD."
-msgstr "Si vous souhaitez utiliser VDR avec une TT-premium S2-6400 HD."
+msgstr "Si desea utilizar VDR con TT-premium S2-6400 HD."
 
 msgid "Video Output"
-msgstr "Sortie vidéo"
+msgstr "Salida de vídeo"
 
 msgid "Override incorrect not DVB compliant EPG Encoding, as send by Sky"
-msgstr "Remplacer l'incorrecte guide des programmes non compatible DVB, comme celui envoyé par Sky"
+msgstr "Reemplaza la EPG incorrecta o no compatible con DVB, como la que envía Sky"
 
 msgid "Charset override"
-msgstr "Remplacer le jeu de caractères"
+msgstr "Reemplaza el juego de caracteres"
 
-#, fuzzy
 msgid "Append \"%s\" to channels.conf"
-msgstr "Déplacer dans le channels.conf"
+msgstr "Añadir \"%s\" a channels.conf"
 
-#, fuzzy
 msgid "Append checked channels to channels.conf"
-msgstr "channels.conf généré"
+msgstr "Añadir canales marcados a channels.conf"
 
-#, fuzzy
 msgid "Adding channels to channels.conf"
-msgstr "Déplacer dans le channels.conf"
+msgstr "Añadiendo canales a channels.conf"
 
 msgid "Diagnostics"
-msgstr "Diagnostics"
+msgstr "Diagnósticos"
 
 msgid "Refresh"
-msgstr "Actualiser"
+msgstr "Refrescar"
 
 msgid "Go to the end"
-msgstr "Aller à la fin"
+msgstr "Ir al final"
 
 msgid "ALSA status information"
-msgstr "ALSA informations "
+msgstr "Información de estado de ALSA"
 
 msgid "ALSA device list"
-msgstr "Liste des périphériques ALSA"
+msgstr "Lista de dispositivos ALSA"
 
 msgid "ALSA custom sound configuration"
-msgstr "ALSA configuration sonore personnalisé"
+msgstr "Configuración personalizada de sonido ALSA"
 
 msgid "Package information"
-msgstr "Paquet information"
+msgstr "Información del paquete"
 
 msgid "Installed packages (VDR, VDR-Plugins, VDR-Addons, XBMC, yavdr)"
-msgstr "Les paquetages installés (VDR, VDR-Plugins, VDR-Addons, XBMC, yavdr)"
+msgstr "Paquetes instalados (VDR, VDR-Plugins, VDR-Addons, XBMC, yavdr)"
 
 msgid "Apt history of recently installed packages"
-msgstr "Apt historique des paquetages récemment installé"
+msgstr "Historico apt de los paquetes recientemente instalados"
 
 msgid "LIRC hardware configuration"
-msgstr "Configuration matérielle LIRC"
+msgstr "Configuración LIRC de hardware"
 
 msgid "LIRCD configuration"
-msgstr "Configuration LIRCD"
+msgstr "Configuración LIRCD"
 
 msgid "System information"
-msgstr "Informations sur le système"
+msgstr "Información del sistema"
 
 msgid "System load"
-msgstr "Charge du système"
+msgstr "Carga del sistema"
 
 msgid "Network status"
-msgstr "État du réseau"
+msgstr "Estado de red"
 
 msgid "Filesystem usage"
-msgstr "Utilisation du système de fichiers"
+msgstr "Uso del sistema de archivos"
 
 msgid "Kernel log"
-msgstr "Log du noyau"
+msgstr "Log del kernel"
 
 msgid "Webserver logfile"
-msgstr "Serveur internet fichier de log"
+msgstr "Fichero log del servidor web"
 
 msgid "VDR basic configuration"
-msgstr "VDR configuration de base"
+msgstr "Configuración básica de VDR"
 
 msgid "VDR setup.conf"
 msgstr "VDR setup.conf"
@@ -626,19 +621,19 @@ msgid "VDR remote.conf"
 msgstr "VDR remote.conf"
 
 msgid "Xorg server log"
-msgstr "Serveur Xorg log"
+msgstr "Log del servidor Xorg"
 
 msgid "X-Server configuration (only if NVIDIA VDPAU present)"
-msgstr "Configuration X-serveur (seulement si NVIDIA VDPAU est présent)"
+msgstr "Configuración de X-Server (únicamente is VDPAU de NVIDIA está presente)"
 
 msgid "X-Server logfile"
-msgstr "X-serveur fichier de log"
+msgstr "Fichero log del X-Server"
 
 msgid "XBMC crash log"
-msgstr "Log des blocages d'XBMC"
+msgstr "Log de errores de XBMC"
 
 msgid "yaVDR database"
-msgstr "Base de données yaVDR"
+msgstr "Base de datos yaVDR"
 
 msgid "yaVDR DB"
 msgstr "yaVDR DB"
@@ -647,143 +642,145 @@ msgid "VDR"
 msgstr "VDR"
 
 msgid "Recordings"
-msgstr "Enregistrements"
+msgstr "Grabaciones"
 
 msgid "Duration"
-msgstr "Durée"
+msgstr "Duración"
 
 msgid "Timers"
-msgstr "Programmations"
+msgstr "Programaciones"
 
 msgid "Start"
-msgstr "Démarrer"
+msgstr "Iniciar"
 
 msgid "Schedule"
-msgstr "Horaire"
+msgstr "Programar"
 
 msgid "Here you can configure your VDR and applications around it."
-msgstr "Ici, vous pouvez configurer votre VDR et ces applications."
+msgstr "Aquí puede configurar su VDR y sus aplicaciones"
 
 msgid "Hardware"
-msgstr "Matériel"
+msgstr "Hardware"
 
 msgid "Remote control"
-msgstr "Télécommande"
+msgstr "Mando a distancia"
 
-#, fuzzy
 msgid "Audi"
 msgstr "Audio"
 
 msgid "Edit configurations"
-msgstr "Modifier les configurations"
+msgstr "Editar configuraciones"
 
 msgid "Packages"
-msgstr "Paquetages"
+msgstr "Paquetes"
 
 msgid "Here you can monitor your system. You can look into log files and send them to pastebin to let others review them."
-msgstr "Ici, vous pouvez surveiller votre système. Vous pouvez consulter les fichiers de log et les envoyer à pastebin pour laisser d'autres personnes les examiner."
+msgstr "Aquí puede monitorizar su sistema. Puede comprobar ficheros de registro (log) y enviarlos al pastebin para permitir que otros los puedan revisar"
 
 msgid "\"Execute command...\""
-msgstr "\"Exécute une commande...\""
+msgstr "\"Ejecutar comando...\""
 
 msgid "The command has been executed successfully"
-msgstr "La commande a été exécutée avec succès"
+msgstr "El comando se ha ejecutado correctamente"
 
 msgid "The command could not complete successfully"
-msgstr "La commande n'a pas pu se terminer avec succès"
+msgstr "El comando no se ha podido ejecutar"
 
 msgid "Switch temporarily to second screen"
-msgstr "Basculer temporairement vers le deuxième écran"
+msgstr "Cambiar temporalmente a la segunda pantalla"
 
 msgid "Reboot computer"
-msgstr "Redémarrez l'ordinateur"
+msgstr "Reiniciar ordenador"
 
 msgid "Kill XBMC"
-msgstr "Tuez XBMC"
+msgstr "Abortar XBMC"
 
 msgid "Sound (ALSA)"
-msgstr "Son (ALSA)"
+msgstr "Sonido(ALSA)"
 
 msgid "System log files"
-msgstr "Fichiers de log du système"
+msgstr "Ficheros de registro del sistema"
 
 msgid "Xorg server"
-msgstr "Serveur Xorg"
+msgstr "Servidor Xorg"
 
 msgid "LIRC configuration"
-msgstr "LIRC configuration"
+msgstr "Configuración LIRC"
 
 msgid "VDR configuration"
-msgstr "VDR configuration"
+msgstr "Configuración VDR"
 
 msgid "Dashboard"
-msgstr "Tableau de bord"
+msgstr "Cuadro de herramientas"
 
 msgid "Program"
-msgstr "Programme"
+msgstr "Programa"
 
 msgid "Saving"
-msgstr "Sauver"
+msgstr "Guardando"
 
 msgid "Cancel"
-msgstr "Annuler"
+msgstr "Cancelar"
 
 msgid "Error while saving data."
-msgstr "Erreur lors de l'enregistrement des données."
+msgstr "Error al grabar los datos."
 
 msgid "Data stored successfully."
-msgstr "Données stockées avec succès."
+msgstr "Datos guardados correctamente"
 
 msgid "VDR seams to be switched off or webserver is stopped."
-msgstr ""
+msgstr "VDR parece estar apagado or el servidor web está detenido."
+
+msgid "yaVDR database seems to be corrupted or missing."
+msgstr "La base de datos de yaVDR parece estar corrupta o se ha perdido."
 
 msgid "Introduction"
-msgstr "Introduction"
+msgstr "Introducción"
 
 msgid "Close"
-msgstr "Fermer"
+msgstr "Cerrar"
 
 msgid "Install package?"
-msgstr "Installer le paquetage?"
+msgstr "¿Instalar paquete?"
 
 msgid "Would you like to install package \"%s\"?"
-msgstr "Souhaitez-vous installer le paquetage \"%s\"?"
+msgstr "¿Desea instalar el paquete \"%s\"?"
 
 msgid "Would you like to remove package \"%s\"?"
-msgstr "Souhaitez-vous supprimer le paquetage \"%s\"?"
+msgstr "¿Desea eliminar el paquete \"%s\"?"
 
 msgid "Would you like to enable \"%s\"?"
-msgstr "Souhaitez-vous activer \"%s\"?"
+msgstr "¿Desea activar \"%s\"?"
 
 msgid "fatal error: disable plugin failed"
-msgstr "erreur fatale: la désactivation du plugin a échoué"
+msgstr "error fatal: la desactivación del plugin ha fallado"
 
 msgid "Disable plugin?"
-msgstr "Désactiver le plugin?"
+msgstr "¿Desactivar plugin?"
 
 msgid "Would you like to disable \"%s\"?"
-msgstr "Souhaitez-vous désactiver \"%s\"?"
+msgstr "¿Desea desactivar \"%s\"?"
 
 msgid "Title (optional)"
-msgstr "Titre (facultatif)"
+msgstr "Título (opcional)"
 
 msgid "Email (optional)"
-msgstr "Email (facultatif)"
+msgstr "Correo electrónico (opcional)"
 
 msgid "Content"
-msgstr "Contenu"
+msgstr "Contenido"
 
 msgid "Send"
-msgstr "Envoyer"
+msgstr "Enviar"
 
 msgid "You can configure your sundtek DVB hardware here."
-msgstr "Vous pouvez configurer votre matériel DVB sundtek ici."
+msgstr "Puede configurar aquí su hardware DVB sundtek"
 
 msgid "Sundtek"
 msgstr "Sundtek"
 
 msgid "unchanged"
-msgstr "inchangé"
+msgstr "sin cambios"
 
 msgid "DVB-T"
 msgstr "DVB-T"
@@ -792,76 +789,75 @@ msgid "DVB-C"
 msgstr "DVB-C"
 
 msgid "Rescan Sundtek"
-msgstr "Rescanner Sundtek"
+msgstr "Buscar Sundtek"
 
 msgid "DVB-Mode"
-msgstr "Mode DVB"
+msgstr "Modo DVB"
 
 msgid "mount device"
-msgstr "monter le périphérique"
+msgstr "montar dispositivo"
 
 msgid "mounted"
-msgstr "monté"
+msgstr "montado"
 
 msgid "remove this configuration"
-msgstr "supprimer cette configuration"
+msgstr "elimina esta configuración"
 
 msgid "Do you realy want to remove this configration:"
-msgstr "Voulez-vous vraiment supprimer cette configuration:"
+msgstr "¿Realmente quiere eliminar esta configuración"
 
 msgid " (local)"
 msgstr " (local)"
 
 msgid "Network-Support"
-msgstr "Support réseau"
+msgstr "Soporte de red"
 
 msgid "allows devices to be mounted remotely"
-msgstr "permet aux périphériques d'être monté à distance"
+msgstr "permite a los dispositivos ser montados de forma remota"
 
 msgid "Rescan for sundtek devices."
-msgstr "Rescanner pour les dispositifs sundtek."
+msgstr "Buscar dispositivos sundtek"
 
 msgid "Do not change frontend settings"
-msgstr "Ne pas modifier les paramètres de l'interface"
+msgstr "No cambiar la configuración del interface"
 
 msgid "mount static (without avahi support)"
-msgstr ""
+msgstr "montaje estático (sin soporte avahi)"
 
 msgid "Language"
-msgstr "Language"
+msgstr "Idioma"
 
 msgid "yes"
-msgstr "oui"
+msgstr "sí"
 
 msgid "no"
-msgstr "non"
+msgstr "no"
 
 msgid "Set XBMC defaults"
-msgstr "Définir les valeurs par défaut d'XBMC "
+msgstr "Introducir XBMC predefinidos"
 
 msgid "enabled"
-msgstr "activé"
+msgstr "activado"
 
 msgid "Edit"
-msgstr "Modifier"
+msgstr "Editar"
 
 msgid "unknown"
-msgstr ""
+msgstr "desconocido"
 
 msgid "Y-m-d H:i"
-msgstr ""
+msgstr "Y-m-d H:i"
 
 msgid "H:i"
-msgstr ""
-
-msgid "Remove marks"
-msgstr ""
+msgstr "H:i"
 
 msgid "Remove Index-File"
-msgstr ""
+msgstr "Elimina fichero de índice"
 
 msgid "Mark advertisements"
-msgstr ""
+msgstr "Marcar anuncios"
 
-#~ msgid "Here you can configure your remote hardware. The default and most common choice is EventLircd."
-#~ msgstr "Ici, vous pouvez configurer votre télécommande. Le choix par défaut et la plus commune est EventLircd."
+msgid "Remove marks"
+msgstr "Eliminar marcas"
+
+
