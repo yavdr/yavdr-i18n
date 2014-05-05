@@ -857,3 +857,6 @@ msgstr ""
 
 msgid "Remove marks"
 msgstr ""
+
+msgid "Remove resume file"
+msgstr ""
