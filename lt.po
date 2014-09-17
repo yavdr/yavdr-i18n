@@ -38,6 +38,9 @@ msgstr "Įrankiai"
 msgid "Xterm"
 msgstr "Terminalas"
 
+msgid "Configure Pulseaudio"
+msgstr "Configure Pulseaudio"
+
 msgid "Commands"
 msgstr "Komandos"
 

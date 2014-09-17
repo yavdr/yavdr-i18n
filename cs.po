@@ -40,6 +40,9 @@ msgstr "Nástroje"
 msgid "Xterm"
 msgstr "Xterm"
 
+msgid "Configure Pulseaudio"
+msgstr "Configure Pulseaudio"
+
 msgid "Commands"
 msgstr "Příkazy"
 

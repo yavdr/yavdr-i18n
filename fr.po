@@ -45,6 +45,9 @@ msgstr "Outils"
 msgid "Xterm"
 msgstr "Xtrem"
 
+msgid "Configure Pulseaudio"
+msgstr "Configure Pulseaudio"
+
 msgid "Commands"
 msgstr "Commandes"
 

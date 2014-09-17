@@ -39,6 +39,9 @@ msgstr ""
 msgid "Xterm"
 msgstr ""
 
+msgid "Configure Pulseaudio"
+msgstr "Configure Pulseaudio"
+
 msgid "Commands"
 msgstr ""
 

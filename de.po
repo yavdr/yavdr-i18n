@@ -42,6 +42,9 @@ msgstr "Dienstprogramme"
 msgid "Xterm"
 msgstr "Xterm"
 
+msgid "Configure Pulseaudio"
+msgstr "Pulseaudio konfigurieren"
+
 msgid "Commands"
 msgstr "Befehle"
 

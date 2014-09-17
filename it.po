@@ -47,6 +47,9 @@ msgstr "Strumenti"
 msgid "Xterm"
 msgstr "Terminale"
 
+msgid "Configure Pulseaudio"
+msgstr "Configure Pulseaudio"
+
 msgid "Commands"
 msgstr "Comandi"
 
