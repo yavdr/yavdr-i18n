@@ -439,7 +439,7 @@ msgid "Description"
 msgstr "Beschreibung"
 
 msgid "Please select a package to see additional details."
-msgstr "Bitte win Paket anwählen um zusätzliche Informationen zu erhalten."
+msgstr "Bitte ein Paket anwählen um zusätzliche Informationen zu erhalten."
 
 msgid "Version"
 msgstr "Version"
