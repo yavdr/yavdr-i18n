@@ -926,3 +926,10 @@ msgid "Mark advertisements"
 msgstr ""
 
 #: end web front end
+
+#: background images for frontend
+msgid "Frontend detached. Press any key on your remote to continue"
+msgstr ""
+
+msgid "VDR stopped"
+msgstr ""
