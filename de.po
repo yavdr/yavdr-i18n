@@ -834,7 +834,7 @@ msgid "Do not change frontend settings"
 msgstr "Einstellungen nicht ändern"
 
 msgid "mount static (without avahi support)"
-msgstr "Statischer Mount (ohne avhia Unterstützung)"
+msgstr "Statischer Mount (ohne avahi Unterstützung)"
 
 msgid "Language"
 msgstr "Sprache"
