@@ -5,7 +5,7 @@ yaVDR - yavdr-i18n
 
 yaVDR tries to let you:
 
- * Watch and record TV easily and enjoy your media in a smart way: Quickly set up a digital video recorder (PVR) on your HTPC, receive SD and HD channels, manage it simply with a remote control. Furthermore, take advantage of the full blown media center software XBMC to listen to music, watch videos, check the weather.
+ * Watch and record TV easily and enjoy your media in a smart way: Quickly set up a digital video recorder (PVR) on your HTPC, receive SD and HD channels, manage it simply with a remote control. Furthermore, take advantage of the full blown media center software KODI to listen to music, watch videos, check the weather.
 
  * Enjoy High Definition without high CPU load: HDTV normally needs a strong CPU to be displayed flawlessly. If you own a Nvidia ION based nettop or a HTPC with a Nvidia GPU that supports VDPAU, your CPU will remain cool and your energy bill won't hurt you. yaVDR relies on VDPAU which is currently the only simple way to get GPU based HD video decoding on Linux.
 
