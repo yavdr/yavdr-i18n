@@ -27,7 +27,7 @@ msgstr ""
 msgid "Media"
 msgstr ""
 
-msgid "XBMC on graphtft Display"
+msgid "KODI on graphtft Display"
 msgstr ""
 
 msgid "Games"
@@ -534,7 +534,7 @@ msgstr ""
 msgid "This is an alternative frontend. It is using the softhddevice plugin using GPU for decoding."
 msgstr ""
 
-msgid "If you want to use VDR as backend for XBMC and watch TV only in XBMC this is your choice."
+msgid "If you want to use VDR as backend for KODI and watch TV only in KODI this is your choice."
 msgstr ""
 
 msgid "You can choose this if you don't want to have any video output. This is if you want to use yavdr as server, or disable any decoding on video cards."
@@ -582,7 +582,7 @@ msgstr ""
 msgid "Package information"
 msgstr ""
 
-msgid "Installed packages (VDR, VDR-Plugins, VDR-Addons, XBMC, yavdr)"
+msgid "Installed packages (VDR, VDR-Plugins, VDR-Addons, KODI, yavdr)"
 msgstr ""
 
 msgid "Apt history of recently installed packages"
@@ -630,7 +630,7 @@ msgstr ""
 msgid "X-Server logfile"
 msgstr ""
 
-msgid "XBMC crash log"
+msgid "KODI crash log"
 msgstr ""
 
 msgid "yaVDR database"
@@ -693,7 +693,7 @@ msgstr ""
 msgid "Reboot computer"
 msgstr ""
 
-msgid "Kill XBMC"
+msgid "Kill KODI"
 msgstr ""
 
 msgid "Sound (ALSA)"
@@ -834,7 +834,7 @@ msgstr ""
 msgid "no"
 msgstr ""
 
-msgid "Set XBMC defaults"
+msgid "Set KODI defaults"
 msgstr ""
 
 msgid "enabled"

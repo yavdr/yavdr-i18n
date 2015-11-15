@@ -26,8 +26,8 @@ msgstr "Internetas"
 msgid "Media"
 msgstr "Media"
 
-msgid "XBMC on graphtft Display"
-msgstr "XBMC rodomas graphtft ekranėlyje"
+msgid "KODI on graphtft Display"
+msgstr "KODI rodomas graphtft ekranėlyje"
 
 msgid "Games"
 msgstr "Žaidimai"
@@ -531,8 +531,8 @@ msgstr "Xineliboutput įskiepas su vdr-sxfe išvesties sąsaja."
 msgid "This is an alternative frontend. It is using the xine plugin using Xine for decoding."
 msgstr "Tai alternatyvi išvesties sąsaja. Kuri naudoja xine įskiepą kreipaintis į Xine dekodavimui."
 
-msgid "If you want to use VDR as backend for XBMC and watch TV only in XBMC this is your choice."
-msgstr "Jei norite naudoti VDR kaip valdiklį XBMC ir žiūrėti TV tik su XBMC - tai jūsų pasirinkimas."
+msgid "If you want to use VDR as backend for KODI and watch TV only in KODI this is your choice."
+msgstr "Jei norite naudoti VDR kaip valdiklį KODI ir žiūrėti TV tik su KODI - tai jūsų pasirinkimas."
 
 msgid "You can choose this if you don't want to have any video output. This is if you want to use yavdr as server, or disable any decoding on video cards."
 msgstr "Galite pasirinkti šį punktą jei iš viso nenorite turėti video išėjimo. Šis punktas įjungiamas tada kai yavdr naudojamas kaip serveris arba visai išjungiamas dekodavimas ant video išvesties."
@@ -582,8 +582,8 @@ msgstr "Asmeniniai ALSA garso nustatymai"
 msgid "Package information"
 msgstr "Paketo informacija"
 
-msgid "Installed packages (VDR, VDR-Plugins, VDR-Addons, XBMC, yavdr)"
-msgstr "Įdiegti paketai (VDR, VDR-Plugins, VDR-Addons, XBMC, yavdr)"
+msgid "Installed packages (VDR, VDR-Plugins, VDR-Addons, KODI, yavdr)"
+msgstr "Įdiegti paketai (VDR, VDR-Plugins, VDR-Addons, KODI, yavdr)"
 
 msgid "Apt history of recently installed packages"
 msgstr "Idiegtų paketų Apt istorija"
@@ -630,8 +630,8 @@ msgstr "X-Server nustatymai (tik tuo atveju jei įranga turi NVIDIA VDPAU sparti
 msgid "X-Server logfile"
 msgstr "X-Server ataskaitos"
 
-msgid "XBMC crash log"
-msgstr "XBMC lūžimo ataskaitos"
+msgid "KODI crash log"
+msgstr "KODI lūžimo ataskaitos"
 
 msgid "yaVDR database"
 msgstr "yaVDR duomenų bazė"
@@ -693,8 +693,8 @@ msgstr "Laikinai persijungia į antrą ekraną"
 msgid "Reboot computer"
 msgstr "Perkrauti kompiuterį"
 
-msgid "Kill XBMC"
-msgstr "Kill XBMC"
+msgid "Kill KODI"
+msgstr "Kill KODI"
 
 msgid "Sound (ALSA)"
 msgstr "Garsas (ALSA)"
@@ -831,8 +831,8 @@ msgstr "taip"
 msgid "no"
 msgstr "ne"
 
-msgid "Set XBMC defaults"
-msgstr "Atstatyti XBMC pradinius nustatymus"
+msgid "Set KODI defaults"
+msgstr "Atstatyti KODI pradinius nustatymus"
 
 msgid "enabled"
 msgstr "įjungta"

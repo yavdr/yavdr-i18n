@@ -29,8 +29,8 @@ msgstr "Интернет"
 msgid "Media"
 msgstr "Медиа"
 
-msgid "XBMC on graphtft Display"
-msgstr "XBMC на графическом дисплее"
+msgid "KODI on graphtft Display"
+msgstr "KODI на графическом дисплее"
 
 msgid "Games"
 msgstr "Игры"
@@ -534,8 +534,8 @@ msgstr "Этот выбор использует плагин xineliboutput с �
 msgid "This is an alternative frontend. It is using the xine plugin using Xine for decoding."
 msgstr "Это альтернативный интерфейс. Он использует плагин Xine для декодирования."
 
-msgid "If you want to use VDR as backend for XBMC and watch TV only in XBMC this is your choice."
-msgstr "Если вы хотите использовать VDR как серверную часть для XBMC и смотреть телевизор только в XBMC - это ваш выбор."
+msgid "If you want to use VDR as backend for KODI and watch TV only in KODI this is your choice."
+msgstr "Если вы хотите использовать VDR как серверную часть для KODI и смотреть телевизор только в KODI - это ваш выбор."
 
 msgid "You can choose this if you don't want to have any video output. This is if you want to use yavdr as server, or disable any decoding on video cards."
 msgstr "Вы можете это выбрать, если вы не хотите использовать какой-либо видеовыход. Это необходимо если вы хотите использовать yavdr как сервер, или отключить любое декодирование на видеокартах."
@@ -585,8 +585,8 @@ msgstr "Пользовательская настройка звука ALSA"
 msgid "Package information"
 msgstr "Информация о пакете"
 
-msgid "Installed packages (VDR, VDR-Plugins, VDR-Addons, XBMC, yavdr)"
-msgstr "Установленные пакеты (VDR, плагины VDR, приложения VDR, XBMC, yavdr)"
+msgid "Installed packages (VDR, VDR-Plugins, VDR-Addons, KODI, yavdr)"
+msgstr "Установленные пакеты (VDR, плагины VDR, приложения VDR, KODI, yavdr)"
 
 msgid "Apt history of recently installed packages"
 msgstr "История недавно установленных пакетов (Apt)"
@@ -633,8 +633,8 @@ msgstr "Конфигурация X-сервера (только если пре�
 msgid "X-Server logfile"
 msgstr "Логфайлы X-сервера"
 
-msgid "XBMC crash log"
-msgstr "Журнал сбоев XBMC"
+msgid "KODI crash log"
+msgstr "Журнал сбоев KODI"
 
 msgid "yaVDR database"
 msgstr "База данных yaVDR"
@@ -696,8 +696,8 @@ msgstr "Временно переключаться на второй экран
 msgid "Reboot computer"
 msgstr "Перезагрузить компьютер"
 
-msgid "Kill XBMC"
-msgstr "Завершить XBMC"
+msgid "Kill KODI"
+msgstr "Завершить KODI"
 
 msgid "Sound (ALSA)"
 msgstr "Звук (ALSA)"
@@ -834,8 +834,8 @@ msgstr "да"
 msgid "no"
 msgstr "нет"
 
-msgid "Set XBMC defaults"
-msgstr "Установка XBMC по-умолчанию"
+msgid "Set KODI defaults"
+msgstr "Установка KODI по-умолчанию"
 
 msgid "enabled"
 msgstr "Включить"

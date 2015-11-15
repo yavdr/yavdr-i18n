@@ -35,8 +35,8 @@ msgstr "Internet"
 msgid "Media"
 msgstr "Multimedia"
 
-msgid "XBMC on graphtft Display"
-msgstr "XBMC su schermo GraphTFT"
+msgid "KODI on graphtft Display"
+msgstr "KODI su schermo GraphTFT"
 
 msgid "Games"
 msgstr "Giochi"
@@ -540,8 +540,8 @@ msgstr "Questa scelta utilizza il plugin xineliboutput con interfaccia vdr-sxfe.
 msgid "This is an alternative frontend. It is using the xine plugin using Xine for decoding."
 msgstr "Questa è un'interfaccia alternativa. Utilizza il plugin xine con Xine per la decodifica."
 
-msgid "If you want to use VDR as backend for XBMC and watch TV only in XBMC this is your choice."
-msgstr "Qui puoi scegliere se vuoi usare VDR come sistema per XBMC e guardare la TV solo tramite XBMC."
+msgid "If you want to use VDR as backend for KODI and watch TV only in KODI this is your choice."
+msgstr "Qui puoi scegliere se vuoi usare VDR come sistema per KODI e guardare la TV solo tramite KODI."
 
 msgid "You can choose this if you don't want to have any video output. This is if you want to use yavdr as server, or disable any decoding on video cards."
 msgstr "Qui puoi scegliere se non vuoi avere alcuna uscita video. In questo caso puoi usare yaVDR come server o disabilitare qualsiasi decodifica sulle schede video."
@@ -591,8 +591,8 @@ msgstr "Configurazione personalizzata suono ALSA"
 msgid "Package information"
 msgstr "Informazioni pacchetto"
 
-msgid "Installed packages (VDR, VDR-Plugins, VDR-Addons, XBMC, yavdr)"
-msgstr "Pacchetti installati (VDR, plugins VDR, addons VDR, XBMC, yaVDR)"
+msgid "Installed packages (VDR, VDR-Plugins, VDR-Addons, KODI, yavdr)"
+msgstr "Pacchetti installati (VDR, plugins VDR, addons VDR, KODI, yaVDR)"
 
 msgid "Apt history of recently installed packages"
 msgstr "Cronologia pacchetti installati recentemente"
@@ -639,8 +639,8 @@ msgstr "Configurazione server X (solo se NVIDIA VDPAU presente)"
 msgid "X-Server logfile"
 msgstr "File registro server X"
 
-msgid "XBMC crash log"
-msgstr "Registro blocchi XBMC"
+msgid "KODI crash log"
+msgstr "Registro blocchi KODI"
 
 msgid "yaVDR database"
 msgstr "Database yaVDR"
@@ -702,8 +702,8 @@ msgstr "Passa temporaneamente al secondo schermo"
 msgid "Reboot computer"
 msgstr "Riavvia computer"
 
-msgid "Kill XBMC"
-msgstr "Termina XBMC"
+msgid "Kill KODI"
+msgstr "Termina KODI"
 
 msgid "Sound (ALSA)"
 msgstr "Suono (ALSA)"
@@ -840,8 +840,8 @@ msgstr "sì"
 msgid "no"
 msgstr "no"
 
-msgid "Set XBMC defaults"
-msgstr "Imposta valori predefiniti XBMC"
+msgid "Set KODI defaults"
+msgstr "Imposta valori predefiniti KODI"
 
 msgid "enabled"
 msgstr "abilitato"
