@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: yavdr-i18n\n"
 "Report-Msgid-Bugs-To: <see README>\n"
 "POT-Creation-Date: 2011-04-14 17:02+0100\n"
-"PO-Revision-Date: 2011-07-31 14:27+0100\n"
+"PO-Revision-Date: 2017-01-27 14:27+0100\n"
 "Last-Translator: Radek Stastny <dedkus@gmail.com>\n"
 "Language-Team: \n"
 "Language: \n"
@@ -262,9 +262,8 @@ msgstr "."
 msgid "Settings"
 msgstr "Nastavení"
 
-#, fuzzy
 msgid "Here you can configure your remote hardware."
-msgstr "Zde lze nastavit Sundtek zařízení"
+msgstr "Zde lze nastavit dálkové ovládání"
 
 msgid "EventLircd"
 msgstr "EventLircd"
@@ -444,19 +443,19 @@ msgid "Name"
 msgstr "Jméno"
 
 msgid "Next channel no."
-msgstr "Další č. kanálu"
+msgstr "Další č. stanice"
 
 msgid "\"ChannelsReader.read: Channels not available\""
-msgstr "\"ChannelsReader.read: Kanály nejsou dostupné\""
+msgstr "\"ChannelsReader.read: Stanice nejsou dostupné\""
 
 msgid "Channels saved"
-msgstr "Kanály uloženy"
+msgstr "Stanice uloženy"
 
 msgid "generated channels.conf"
 msgstr "vygenerovaný channels.conf"
 
 msgid "Channels"
-msgstr "Kanály"
+msgstr "Stanice"
 
 msgid "Clipboard"
 msgstr "Schránka"
@@ -474,7 +473,7 @@ msgid "Display channels.conf"
 msgstr "Zobrazit channels.conf"
 
 msgid "\"Channel\""
-msgstr "\"Kanál\""
+msgstr "\"Stanice\""
 
 msgid "\"Name\""
 msgstr "\"Jméno\""
@@ -483,7 +482,7 @@ msgid "\"Provider\""
 msgstr "\"Poskytovatel\""
 
 msgid "\"loading channels\""
-msgstr "\"nahrávám kanály\""
+msgstr "\"nahrávám stanice\""
 
 msgid "Move into clipboard"
 msgstr "Přesunout do schránky"
@@ -551,17 +550,14 @@ msgstr "Přepsat chybné DVB nekompatibilní EPG kódování Sky"
 msgid "Charset override"
 msgstr "Přepsání kódování"
 
-#, fuzzy
 msgid "Append \"%s\" to channels.conf"
-msgstr "Přesunout do channels.conf"
+msgstr "Přidat \"%s\" do channels.conf"
 
-#, fuzzy
 msgid "Append checked channels to channels.conf"
-msgstr "vygenerovaný channels.conf"
+msgstr "Přidat vybrané stanice do channels.conf"
 
-#, fuzzy
 msgid "Adding channels to channels.conf"
-msgstr "Přesunout do channels.conf"
+msgstr "Přidat stanice do channels.conf"
 
 msgid "Diagnostics"
 msgstr "Diagnostika"
@@ -774,7 +770,7 @@ msgid "Send"
 msgstr "Odeslat"
 
 msgid "You can configure your sundtek DVB hardware here."
-msgstr "Zde lze nastavit Sundtek zařízení"
+msgstr "Zde lze nastavit Sundtek DVB zařízení"
 
 msgid "Sundtek"
 msgstr "Sundtek"
@@ -855,10 +851,10 @@ msgid "Remove marks"
 msgstr "Odstranění značek"
 
 msgid "Remove Index-File"
-msgstr ""
+msgstr "Odstranění Index-souboru"
 
 msgid "Mark advertisements"
-msgstr ""
+msgstr "Označení reklam"
 
 #~ msgid "Here you can configure your remote hardware. The default and most common choice is EventLircd."
 #~ msgstr "Nastavení dálkového ovládaní. Výchozí a nejčasteji používaná je volba EventLircd."
