@@ -9,6 +9,8 @@ I18Npot   = $(PODIR)/yavdr.pot
 I18Njson  = $(addprefix $(LOCALEDIRJSON)/, $(addsuffix /LC_MESSAGES/yavdr.json, $(notdir $(foreach file, $(I18Npo), $(basename $(file))))))
 
 .PHONY: i18n clean
+install: i18n
+
 i18n: $(I18Nmsgs) $(I18Njson)
 
 %.mo: %.po
